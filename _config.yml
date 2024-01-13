@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "That Italian Guy"
-  avatar : "/assets/images/avatar.png"
+  avatar : "/assets/images/avatar.webp"
   bio    : "I design and play games."
   links:
     - label: "Bluesky"

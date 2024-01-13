@@ -1,4 +1,6 @@
 ---
+header:
+  overlay_color: "#333"
 title: "Welcome to Dungeon Dynamics"
 date: 2024-01-13
 ---

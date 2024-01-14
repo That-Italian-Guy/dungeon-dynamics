@@ -13,7 +13,7 @@ feature_row:
     title: "Hellwatch: Infernal Oath"
     excerpt: "Game Designer"
     url: "https://www.hellwatchrpg.com/"
-- image_path: assets/images/about/wrath_wyvern_banner.webp
+ - image_path: assets/images/about/wrath_wyvern_banner.webp
     alt: "Wrath of the Wyvern: Skyfires Showdown"
     title: "Wrath of the Wyvern"
     excerpt: "Game Designer"

@@ -19,14 +19,14 @@ In this video I am going to showcase a variety of methods to automate complex ab
 
 
 {% capture notice-text %}
-Modular targeting macro: https://github.com/That-Italian-Guy/public-macros/blob/main/targetNearby.js
-Music: https://tabletopaudio.com/
+- Modular targeting macro: [  Get it!  ](https://github.com/That-Italian-Guy/public-macros/blob/main/targetNearby.js)
+- Music: [  Tabletop Audio  ]( https://tabletopaudio.com/)
 
 MOD list:
 - Midi-QOL [  Get it!  ](https://foundryvtt.com/packages/midi-qol)
 - Posney's Automation Discord: [  Join  ](https://discord.gg/b7uMNarkTU)
 - Token Magix FX [  Get it!  ](https://foundryvtt.com/packages/tokenmagic/)
-- Dynamic Active [  Get it!  ](Effects https://foundryvtt.com/packages/dae)
+- Dynamic Active Effects [  Get it!  ](https://foundryvtt.com/packages/dae)
 - Item Macro [  Get it!  ](https://foundryvtt.com/packages/itemacro)
 - DFreds Convenient Effects [  Get it!  ](https://foundryvtt.com/packages/dfreds-convenient-effects)
 - DFreds Effects Panel [  Get it!  ](https://foundryvtt.com/packages/dfreds-effects-panel)

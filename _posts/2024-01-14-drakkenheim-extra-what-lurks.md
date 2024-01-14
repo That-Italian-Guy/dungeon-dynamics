@@ -1,5 +1,5 @@
 ---
-title: "Drakkenheim Extras: Beltrand of the Silver Arm"
+title: "Drakkenheim Extras: What Lurks in the Waters"
 date: 2024-01-14
 excerpt: A bonus adventure for Dungeons of Drakkenheim
 toc: true

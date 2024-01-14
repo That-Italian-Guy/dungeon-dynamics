@@ -55,10 +55,14 @@ Not all the denizens of Drakkenheim are empowered by a Haze Moon.
 + The Haze Moon is a sacred night for the **Followers of the Falling Fire** - it is said that the sacrament administered during such an event is particularly holy. Not only are pilgrimages increased during a Haze Moon, if the leaders of this faction believe the PCs to be important for the prophecy they may insist they take their pilgrimage during such a sacred time.
 + Any of the previous faction events may be retooled as a **quest** assigned to the PCs by a faction lieutenant if they are in good rapports with them.
 
-{% capture notice-primary %}
+{% capture notice-text %}
 ## Variant: Unpredictable Haze Moon
 If you want to add a pinch of suspense, consider having the Haze Moon be tied to the growing and shrinking pattern of the Delerium Heart. In this case, while the Haze Moon has so far _normally_ happened every 28th day of the month, new, unscheduled Haze Moons start to happen. 
 + Roll 1d100 every night that passes - on a 100 a Haze Moon happens. 
 + Afterwards, the event happens on 99-100, then on a 98-100 and so on.
 + The PCs or some of the factions may realise that the frequency of the Haze Moons is increasing and figure out there is some kind of “clock” until something happens. This is especially true once the frequency increases a few times.
 {% endcapture %}
+<div class="notice--primary">
+  <h4 class="no_toc">Variant: Unpredictable Haze Moon</h4>
+  {{ notice-text | markdownify }}
+</div>

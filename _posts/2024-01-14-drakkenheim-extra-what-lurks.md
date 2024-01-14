@@ -3,6 +3,7 @@ title: "Drakkenheim Extras: What Lurks in the Waters"
 date: 2024-01-14
 excerpt: A bonus adventure for Dungeons of Drakkenheim
 toc: true
+teaser: /assets/images/drakkenheim_extras/what_lurks.webp
 categories: 
   - drakkenheim extras
 tags:

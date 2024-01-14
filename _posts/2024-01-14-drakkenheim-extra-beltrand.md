@@ -3,6 +3,8 @@ title: "Drakkenheim Extras: Beltrand of the Silver Arm"
 date: 2024-01-14
 excerpt: A bonus adventure for Dungeons of Drakkenheim
 toc: true
+header:
+  teaser: /assets/images/drakkenheim_extras/mini_banner.webp
 categories: 
   - drakkenheim extras
 tags:

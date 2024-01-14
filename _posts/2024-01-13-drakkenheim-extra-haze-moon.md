@@ -63,6 +63,5 @@ If you want to add a pinch of suspense, consider having the Haze Moon be tied to
 + The PCs or some of the factions may realise that the frequency of the Haze Moons is increasing and figure out there is some kind of “clock” until something happens. This is especially true once the frequency increases a few times.
 {% endcapture %}
 <div class="notice--primary">
-  <h4 class="no_toc">Variant: Unpredictable Haze Moon</h4>
   {{ notice-text | markdownify }}
 </div>

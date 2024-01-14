@@ -62,6 +62,6 @@ If you want to add a pinch of suspense, consider having the Haze Moon be tied to
 + Afterwards, the event happens on 99-100, then on a 98-100 and so on.
 + The PCs or some of the factions may realise that the frequency of the Haze Moons is increasing and figure out there is some kind of “clock” until something happens. This is especially true once the frequency increases a few times.
 {% endcapture %}
-<div class="notice--primary">
+<div class="notice">
   {{ notice-text | markdownify }}
 </div>

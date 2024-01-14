@@ -5,6 +5,7 @@ title: "Drakkenheim Extras: The Haze Moon"
 date: 2024-01-13
 excerpt: A bonus adventure for Dungeons of Drakkenheim
 toc: true
+teaser: /assets/images/drakkenheim_extras/haze_moon1.webp
 categories: 
   - drakkenheim extras
 tags:

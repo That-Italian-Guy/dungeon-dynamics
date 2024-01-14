@@ -83,6 +83,8 @@ defaults:
       path: ""
       type: posts
     values:
+      header:
+        overlay_color: "#333"
       layout: single
       author_profile: true
       read_time: true

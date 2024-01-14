@@ -12,14 +12,23 @@ feature_row:
     alt: "Hellwatch: Infernal Oath"
     title: "Hellwatch: Infernal Oath"
     excerpt: "Game Designer"
+    btn_label: "Learn More"
+    btn_class: "btn--info"
+    url: "https://www.hellwatchrpg.com/"
   - image_path: assets/images/about/wrath_wyvern_banner.webp
     alt: "Wrath of the Wyvern: Skyfires Showdown"
     title: "Wrath of the Wyvern"
     excerpt: "Game Designer"
+    btn_label: "Learn More"
+    btn_class: "btn--info"
+    url: "https://shop.lionbanner.com/product/wrath-of-the-wyvern/"
   - image_path: assets/images/about/mcmd_rpg_banner.webp
     alt: "The MCDM Rpg"
     title: "The MCDM Rpg"
     excerpt: "Alpha Playtester"
+    btn_label: "Learn More"
+    btn_class: "btn--info"
+    url: "https://www.backerkit.com/c/projects/mcdm-productions/mcdm-rpg"
 ---
 
 {% include feature_row id="intro" type="center" %}

@@ -17,22 +17,21 @@ tags:
 
 In this video I am going to showcase a variety of methods to automate complex abilities for Monsters or characters in Foundry VTT! we will have a look at some of the most powerful automation modules and I will show you how to integrate your own macros with them.
 
-{% capture notice-text %}
 
+{% capture notice-text %}
 Modular targeting macro: https://github.com/That-Italian-Guy/public-macros/blob/main/targetNearby.js
 Music: https://tabletopaudio.com/
 
 MOD list:
-- Midi-QOL https://foundryvtt.com/packages/midi-qol
+- Midi-QOL [  Get it!  ](https://foundryvtt.com/packages/midi-qol)
 - Posney's Automation Discord: [  Join  ](https://discord.gg/b7uMNarkTU)
-- Token Magix FX https://foundryvtt.com/packages/tokenmagic/
-- Dynamic Active Effects https://foundryvtt.com/packages/dae
-- Item Macro https://foundryvtt.com/packages/itemacro
-- DFreds Convenient Effects https://foundryvtt.com/packages/dfreds-convenient-effects
-- DFreds Effects Panel https://foundryvtt.com/packages/dfreds-effects-panel
-- Build-a-Bonus https://foundryvtt.com/packages/babonus
-
+- Token Magix FX [  Get it!  ](https://foundryvtt.com/packages/tokenmagic/)
+- Dynamic Active [  Get it!  ](Effects https://foundryvtt.com/packages/dae)
+- Item Macro [  Get it!  ](https://foundryvtt.com/packages/itemacro)
+- DFreds Convenient Effects [  Get it!  ](https://foundryvtt.com/packages/dfreds-convenient-effects)
+- DFreds Effects Panel [  Get it!  ](https://foundryvtt.com/packages/dfreds-effects-panel)
+- Build-a-Bonus [  Get it!  ](https://foundryvtt.com/packages/babonus)
 {% endcapture %}
-<div class="info">
+<div class="notice--info">
   {{ notice-text | markdownify }}
 </div>

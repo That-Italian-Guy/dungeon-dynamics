@@ -3,8 +3,7 @@ permalink: /about/
 title: "About"
 layout: splash
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_color: "#333"
 excerpt: I’m That Italian Guy, a Dungeon Master with over two decades of experience and a TTRPG game designer.
 intro: 
   - excerpt: Published works and selected credits.
@@ -21,4 +20,6 @@ feature_row:
     url: "[#link](https://www.backerkit.com/c/projects/mcdm-productions/mcdm-rpg)"
 ---
 
+{% include feature_row id="intro" type="center" %}
 
+{% include feature_row %}

@@ -1,7 +1,7 @@
 ---
 title: "Drakkenheim Extras: The Haze Moon"
 date: 2024-01-13
-excerpt: Extra risk for extra reward in this bonus adventure for Dungeons of Drakkenheim
+excerpt: A bonus adventure for Dungeons of Drakkenheim
 toc: true
 header:
   teaser: /assets/images/drakkenheim_extras/mini_banner.webp

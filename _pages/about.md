@@ -12,10 +12,6 @@ feature_row:
     alt: "Hellwatch: Infernal Oath"
     title: "Hellwatch: Infernal Oath"
     excerpt: "Game Designer"
- - image_path: assets/images/about/wrath_wyvern_banner.webp
-    alt: "Wrath of the Wyvern: Skyfires Showdown"
-    title: "Wrath of the Wyvern"
-    excerpt: "Game Designer"
   - image_path: assets/images/about/mcmd_rpg_banner.webp
     alt: "The MCDM Rpg"
     title: "The MCDM Rpg"

@@ -9,7 +9,6 @@ title: Dungeon Dynamics
 date: 2024-01-13
 excerpt: A TTRPG design blog.
 author_profile: true
-related: true
 excerpt: I’m That Italian Guy, a Dungeon Master with over two decades of experience and a TTRPG game designer.
 intro: 
   - excerpt: Selected works and credits.

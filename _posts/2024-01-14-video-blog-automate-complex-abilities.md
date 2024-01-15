@@ -10,6 +10,7 @@ categories:
 tags:
   - vtt
   - foundry
+  - tutorial
 ---
 
 {% include video id="X1HPp7H9pQA" provider="youtube" %}

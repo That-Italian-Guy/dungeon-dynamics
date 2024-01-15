@@ -97,6 +97,8 @@ defaults:
       path: "_pages"
       type: pages
     values:
+      header:
+        overlay_color: "#333"
       layout: single
       author_profile: true
 

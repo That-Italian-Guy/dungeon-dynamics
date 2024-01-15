@@ -206,7 +206,7 @@ _Huge aberration, unaligned_
 6. Two effects
 
 ## Garmyr Group
-_Large aberration, unaligned_
+_Large monstrosity, unaligned_
 
 **Armor Class** 15 (hide armor)
 <br>
@@ -249,7 +249,7 @@ _Large aberration, unaligned_
 **Spearwall.** When an enemy moves within 10 ft. of the group, the group can use its reaction to make a Spears attack against them.
 
 ## Garmyr Horde
-_Huge aberration, unaligned_
+_Huge monstrosity, unaligned_
 
 **Armor Class** 15 (hide armor)
 <br>
@@ -285,8 +285,90 @@ _Huge aberration, unaligned_
 
 **BONUS ACTIONS**
 <br>
-**Rampage (group).** When the horde reduces a creature to 0 hit points with a melee attack on its turn, as a bonus action it can move up to half its sepeed and make a Spears attack.
+**Rampage (horde).** When the horde reduces a creature to 0 hit points with a melee attack on its turn, as a bonus action it can move up to half its sepeed and make a Spears attack.
 
 **REACTIONS**
 <br>
 **Spearwall.** When an enemy moves within 10 ft. of the horde, the horde can use its reaction to make a Spears attack against them.
+
+## Ratling Group
+_Large monstrosity, unaligned_
+
+**Armor Class** 13 (unarmored)
+<br>
+**Hit Points** 45 (7d8 + 14)
+<br>
+**Speed** 30 ft.
+
+**STR** 10(+0)
+**DEX** 16(+3)
+**CON** 14 (+2)
+<br>
+**INT** 8(-2)
+**WIS** 12(+1)
+**CHA** 5(-3)
+
+**Skills** Stealth +6
+<br>
+**Senses** darkvision 60 ft., passive Perception 11
+<br>
+**Languages** Common 
+<br>
+**Challenge** 2 (450 XP)
+
+**TRAITS**
+<br>
+**Group.** The group is composed of several base creatures. If it is subjected to a spell, attack, or other effect that affects only one target, It takes the damage but ignores other effects. It can share its space with Medium or smaller creatures or objects. The group can move through any opening large enough for one Medium creature without squeezing.
+
+**Area Vulnerability.** The group is vulnerable against damage from any effect that targets an area.
+
+**Group Dispersal.** When the group is bloodied, it becomes weakened. When the group is reduced to 0 hit points, it turns into 2 (1d4) base creatures that are bloodied.
+
+**Keen Smell.** The group has advantage on Wisdom (Perception) checks that rely on smell.
+
+**Improved Pack Tactics.**  As long as it is not bloodied, the group has advantaged on melee attacks. The group has advantage on attack rolls against a creature if at least one of the group's allies is within 5 ft. of the creature and the ally isn't incapacitated.
+
+**ACTIONS**
+<br>
+**Daggers in the Back.** Melee Weapon Attack +5 to hit, reach 5 ft. or range 20/60, one target. Hit 10 (3d4+3) piercing damage. If the attack is made with advantage, it inflicts 10 (3d6) extra damage.
+
+## Ratling Horde
+_Huge monstrosity, unaligned_
+
+**Armor Class** 14 (unarmored)
+<br>
+**Hit Points** 75 (10d8 + 30)
+<br>
+**Speed** 30 ft.
+
+**STR** 10(+0)
+**DEX** 18(+4)
+**CON** 16 (+3)
+<br>
+**INT** 8(-2)
+**WIS** 12(+1)
+**CHA** 5(-3)
+
+**Skills** Stealth +6
+<br>
+**Senses** darkvision 60 ft., passive Perception 11
+<br>
+**Languages** Common 
+<br>
+**Challenge** 4 (1,100 XP)
+
+**TRAITS**
+<br>
+**Horde.** The horde is composed of numerous base creatures. If it is subjected to a spell, attack, or other effect that affects only one target, It takes the damage but ignores other effects. It can share its space with Medium or smaller creatures or objects. The horde can move through any opening large enough for one Medium creature without squeezing.
+
+**Area Vulnerability.** The horde is vulnerable against damage from any effect that targets an area.
+
+**Horde Dispersal.** When the horde is bloodied, it becomes weakened. When the horde is reduced to 0 hit points, it turns into 3 (1d6) base creatures that are bloodied.
+
+**Keen Smell.** The group has advantage on Wisdom (Perception) checks that rely on smell.
+
+**Improved Pack Tactics.**  As long as it is not bloodied, the group has advantaged on melee attacks. The group has advantage on attack rolls against a creature if at least one of the group's allies is within 5 ft. of the creature and the ally isn't incapacitated.
+
+**ACTIONS**
+<br>
+**Daggers in the Back.** Melee Weapon Attack +6 to hit, reach 5 ft. or range 20/60, one target. Hit 16 (5d4+3) piercing damage. If the attack is made with advantage, it inflicts 14 (4d6) extra damage.

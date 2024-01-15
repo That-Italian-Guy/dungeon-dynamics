@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: home
 header:
   overlay_color: "#333"
 title: Dungeon Dynamics

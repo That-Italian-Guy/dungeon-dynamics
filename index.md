@@ -8,7 +8,7 @@ excerpt: A TTRPG design blog.
 author_profile: true
 excerpt: I’m That Italian Guy, a Dungeon Master with over two decades of experience and a TTRPG game designer.
 intro: 
-  - excerpt: Published works and selected credits.
+  - excerpt: Selected works and credits.
 feature_row:
   - image_path: assets/images/about/hellwatch_banner.webp
     alt: "Hellwatch: Infernal Oath"
@@ -25,8 +25,8 @@ feature_row:
     btn_class: "btn--info"
     url: "https://shop.lionbanner.com/product/wrath-of-the-wyvern/"
   - image_path: assets/images/about/mcmd_rpg_banner.webp
-    alt: "The MCDM Rpg"
-    title: "The MCDM Rpg"
+    alt: "The MCDM Roleplaying Game"
+    title: "The MCDM Roleplaying Game"
     excerpt: "Alpha Playtester"
     btn_label: "Learn More"
     btn_class: "btn--info"

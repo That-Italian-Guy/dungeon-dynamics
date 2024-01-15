@@ -2,6 +2,9 @@
 layout: home
 header:
   overlay_color: "#333"
+actions:
+  - label: "Explore"
+  url: "https://that-italian-guy.github.io/dungeon-dynamics/tags/"
 title: Dungeon Dynamics
 date: 2024-01-13
 excerpt: A TTRPG design blog.

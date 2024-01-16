@@ -6,7 +6,7 @@ header:
   overlay_color: "#333"
 excerpt: I’m That Italian Guy, a Dungeon Master with over two decades of experience and a TTRPG game designer.
 intro: 
-  - excerpt: Published works and selected credits.
+  - excerpt: Selected works and credits.
 feature_row:
   - image_path: assets/images/about/hellwatch_banner.webp
     alt: "Hellwatch: Infernal Oath"
@@ -30,6 +30,8 @@ feature_row:
     btn_class: "btn--info"
     url: "https://www.backerkit.com/c/projects/mcdm-productions/mcdm-rpg"
 ---
+
+All IP and other content covered by copyright belongs to the respective copyright owners and is only mentioned for transformative and illustrative purpose under fair use. Unless otherwise specified, the rest of the game mechanics presented on this website are Open Game Content.
 
 {% include feature_row id="intro" type="center" %}
 

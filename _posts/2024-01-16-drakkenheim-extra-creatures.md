@@ -50,4 +50,4 @@ This is less of a creature and more of an area denial tool. I came up with it wh
 + At the start of the adventure, the Titan has been parked in front of the Chapel of St. Brenna for the past few years…but it has recently started wandering again. The Titan uses the stat block of a [Level Up: A5E Stone Colossus](https://a5e.tools/node/1674).
 
 [^1]: A creature is **bloodied** when it has lost at least half of its maximum hit points. This does not have any direct impact, but one or more effects may check for this condition.
-[^2]: See Miscellanea Addeda for Dungeons of Drakkenheim.
+[^2]: See [Miscellanea Addeda for Dungeons of Drakkenheim](https://that-italian-guy.github.io/dungeon-dynamics/drakkenheim%20extras/drakkenheim-extra-miscellanea-addenda/).

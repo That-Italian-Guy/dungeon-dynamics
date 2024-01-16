@@ -40,12 +40,12 @@ Dungeon Alchemist doesn't currently support levels and, because of that, it does
   + Make sure you are using the same pixel size for the DA tiles and the Foundry grid squares to keep things consistent!
   + Make sure to disable AI generation before resizing the room. Alternatively, remove the items placed by the AI in the Castle Hallway "room".
 
-{% include figure image_path="/assets/images/video-blogs/da_roofs_01.webp" caption="This is what your current "room" should look like." %}
+{% include figure image_path="/assets/images/video-blogs/da_roofs_01.webp" caption="This is what your current room should look like." %}
 
 + Switch to the Floor Tiles menu. We are going to use some visual trickery to simulate a 3d roof. Dungeon Alchemist comes with a lot of repeated tiles that are brighter/darker variations of the same pattern.
 + In this example, we are going to replace the tiles in the upper and lower halves with "City pavers dark green" and "City pavers light green" resspectively.
 
-{% include figure image_path="/assets/images/video-blogs/da_roofs_02.webp" caption="The "room" is now a roof covered in shingles!" %}
+{% include figure image_path="/assets/images/video-blogs/da_roofs_02.webp" caption="The room is now a roof covered in shingles!" %}
 
 + Export the "map" with Ortographic (top down) Perspective and with an Image Quality matching the pixel size of your Foundry grid squares. Set the grid to Off.
 ## Photo Editing steps

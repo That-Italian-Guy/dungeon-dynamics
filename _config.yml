@@ -96,7 +96,7 @@ defaults:
       analytics:
         provider: "google-gtag"
         google:
-          tracking_id: "G-XQ0HDTL680"
+          tracking_id: "UA-298792169-1"
           anonymize_ip: false # default
   # _pages
   - scope:

@@ -21,6 +21,7 @@ logo: "/assets/images/logo.webp"
 github_username: That-Italian-Guy
 minimal_mistakes_skin: default
 search: true
+teaser: /assets/images/teaser1.webp
 
 # Build settings
 markdown: kramdown
@@ -92,6 +93,11 @@ defaults:
       comments: true
       share: true
       related: true
+      analytics:
+        provider: "google-gtag"
+        google:
+          tracking_id: "G-XQ0HDTL680"
+          anonymize_ip: false # default
   # _pages
   - scope:
       path: "_pages"
@@ -101,6 +107,11 @@ defaults:
         overlay_color: "#333"
       layout: single
       author_profile: true
+      analytics:
+        provider: "google-gtag"
+        google:
+          tracking_id: "G-XQ0HDTL680"
+          anonymize_ip: false # default
 
 category_archive:
   type: liquid

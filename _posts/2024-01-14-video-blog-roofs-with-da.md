@@ -1,4 +1,4 @@
-![image](https://github.com/That-Italian-Guy/dungeon-dynamics/assets/106380880/c945da51-4e81-4c29-9f91-c5576ab2aa77)---
+---
 title: "Create Roofs in Dungeon Alchemist (for Foundry VTT)"
 date: 2024-01-14
 excerpt: How to create and edit roofs with Dungeon Alchemist and a Photo editing software.

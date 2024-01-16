@@ -15,10 +15,10 @@ These rules aim at infusing new life into the iconic inhabitants of Drakkenheim,
 ## New Conditions
 These stat blocks use the **bloodied**  and **weakened** custom condition. 
 
-# Bloodied
+### Bloodied
 A creature is **bloodied** when it has lost at least half of its maximum hit points. This does not have any direct impact, but one or more effects may check for this condition.
 
-# Weakened
+### Weakened
 The damage caused by a **weakened** creature's attacks is halved.
 
 ## Haze Husks Group

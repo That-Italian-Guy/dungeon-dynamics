@@ -29,13 +29,13 @@ A blob of animated delerium sludge, not large enough to be an animated delerium 
 + **Lowered stats**: a sludge ooze has CR ¼ and 12 HP. 
 + **Delerium creature**: the ooze loses its resistance to fire and gains resistance to necrotic damage.
 + **Non-corrosive**: the sludge loses its Corrosive Body and False Appearence features. Its pseudopod attack deals extra necrotic damage (that inflicts Minor Contamination[^2] if you are using this rule) and doesn’t corrode armor.
-+  **Volatile**: the ooze is vulnerable to fire. If it’s reduced to 0HP by fire damage, it explodes causing 11 (3d6) necrotic damage to every creature within 10ft (save **DC 12 Constitution** halves). This damage inflicts Minor Contamination[^2] if you are using this rule)
++  **Volatile**: the ooze is vulnerable to fire. If it’s reduced to 0HP by fire damage, it explodes causing 11 (3d6) necrotic damage to every creature within 10ft (save **DC 12 Constitution** halves). This damage inflicts Minor Contamination if you are using this rule)
 
 ## Sludge-blooded Hulk (Haze Hulk mutation)
 This is a new **Haze Hulk** variant. It has the following features:
 + **Delerium Blood**: as a reaction when the Hulk is dealt physical damage, it bleeds out a sludge ooze that immediately rolls for initiative.
-+ **Volatile**: the hulk is vulnerable to fire. If it’s reduced to 0HP by fire damage, it explodes causing 20 (3d10+3) necrotic damage to every creature within 20ft (save **DC 14 Constitution** halves). This damage inflicts Minor Contamination[^2] if you are using this rule).
-+ **Spray Ooze**: as a bonus action, the Hulk can spray some ooze against an enemy withing 60ft. The target must succeed on a DC14 Constitution saving throw or suffer 7 (2d6) necrotic damage (that inflicts Minor Contamination[^2] if you are using this rule). Then, spawn a sludge ooze (that immediately rolls for initiative) in an empty space next to the target.
++ **Volatile**: the hulk is vulnerable to fire. If it’s reduced to 0HP by fire damage, it explodes causing 20 (3d10+3) necrotic damage to every creature within 20ft (save **DC 14 Constitution** halves). This damage inflicts Minor Contamination if you are using this rule).
++ **Spray Ooze**: as a bonus action, the Hulk can spray some ooze against an enemy withing 60ft. The target must succeed on a DC14 Constitution saving throw or suffer 7 (2d6) necrotic damage (that inflicts Minor Contamination if you are using this rule). Then, spawn a sludge ooze (that immediately rolls for initiative) in an empty space next to the target.
 
 ## Haze Brute
 A humanoid made unreasonably large and angry by the perils of Contamination. Uses the stat block of an **ogre** with the following changes:

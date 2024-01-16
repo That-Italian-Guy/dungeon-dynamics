@@ -23,7 +23,7 @@ All the files for this video can be found here:
 - [Full Prefab creation guide](https://youtu.be/k66biGIyED4)
 - [Advanced Prefabs #1](https://youtu.be/4e9xosxoBu0)
 - [Advanced Prefabs #2](https://www.youtube.com/watch?v=ewHXyRNDnxo)
-- Prefab credit to [Baileywiki](https://www.youtube.com/channel/UCg6hyng0ObRKLwfz3QIhcog)https://www.youtube.com/channel/UCg6hyng0ObRKLwfz3QIhcog
+- Prefab credit to [Baileywiki](https://www.youtube.com/channel/UCg6hyng0ObRKLwfz3QIhcog)
 - Music: [Tabletop Audio](https://tabletopaudio.com/)
 {% endcapture %}
 <div class="notice--info">

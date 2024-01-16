@@ -27,7 +27,7 @@ That said, Contamination is very black&white in its mechanics - something may co
 ## Delerium Cyphers
 Delerium is a source of wealth for the PCs and can already be used as an arcane source but I feel like, in itself, gaining delerium doesn’t have a high enough woah coefficient to work as one of the main reasons to explore Drakkenheim. Delerium Cyphers are meant to act as an additional lure for the PCs to seek Delerium out. Inspired by the Cypher item system in [Numenera](https://en.wikipedia.org/wiki/Numenera) and the Altered Items from [Control](https://en.wikipedia.org/wiki/Control_(video_game)).
 
-# Cypher characteristics
+### Cypher characteristics
 + Delerium Cyphers are unique formations of Delerium infused with unpredictable eldritch energies. They crystallize around (often mundane) items like a boot, a candle, a length of rope, etc and become one with them.
 + Cyphers are suffused with a dim but visible octarine light. Sometimes they exhibit uncommon physical properties (like a bendy piece of metal or a transparent glove).
 + Cyphers can be shattered to release the eldritch energies contained within. This destroys the cypher and leaves behind 5 (2d4) delerium chips. 
@@ -36,14 +36,14 @@ Delerium is a source of wealth for the PCs and can already be used as an arcane 
 + They are highly coveted by arcanists, adventurers and merchants.
 + Most factions are obviously interested in the magical powers the Cyphers can release; the Academy and Followers of the Falling Fire are interested in learning more from them. The Queen’s Men are attracted to the profit they represent and the Silver Order want to destroy these vile trinkets.
 
-# Cypher effects
+### Cypher effects
 Mechanically speaking, Delerium Cyphers are one time use magic items. 
 + They allow whoever shatter them to create a magical effect that mimics a specific spell (or the effects can be custom tailored by the GM).
 + Cyphers allow the PCs to have a one time access to a powerful magical effect. Consider granting access to spells that are 1 or even 2 levels above what your PCs can normally cast (so a party that has access to 2nd level spells could find a Cypher that allows them to 1 time cast a 4th level spell).
 + _Identify_ is needed to figure out what a Cypher can do. Or it can be shattered hoping for the best…
 + Each Cypher is activated by shattering the crystals on it in the way that makes more sense: a Fireball Cypher can be thrown towards the enemies, while an Animate Object one can be smashed against the item that has to be animated and so on.
 
-# Cypher examples
+### Cypher examples
 Some premade Cyphers:
 1. A crystal encrusted, leathery bill of sale for a flock of sheep that casts Locate Creature.
 2. A large and flat gold coin that casts Arcane Lock.
@@ -56,7 +56,7 @@ Some premade Cyphers:
 9. An iridescent, glossy toy soldier that casts Arcane Hand.
 10. A wet rabbit foot amulet that casts Conjure Animals.
 
-# Cypher random table
+### Cypher random table
 You can use this table to randomly determine the look of a Cypher.
 
 | Descriptor (roll 1d20) |                         | Quality (roll 1d20) |                        | Type (roll 1d20) |                     |
@@ -86,7 +86,7 @@ These changes would give the Queen's Men a few more openings towards other facti
 
 ## Random Tables
 
-# Random Table: Spooky Events
+### Random Table: Spooky Events
 The DoD book already has some awesome random tables for Common Locations and Warped Ruin. This table is meant to be a replacement for the “Nothing” result on the random encounter table. You can use of these results to spice things up a bit instead of having simply nothing happen and to add some extra mystique to the streets of Drakkenheim. Alternatively, you can decide to have an actual encounter whenever the players investigate the event.
 
 | Spooky Events (roll 1d20) | Spooky Events (roll 1d20) |
@@ -102,7 +102,7 @@ The DoD book already has some awesome random tables for Common Locations and War
 | 9. A weird shimmering distortion is affecting the pavement of the street in front of the PCs. | 19. One of the PCs experiences an intense sense of deja-vu. |
 | 10. A decapitated body lies in the middle of the street. | 20. One of the PCs feels being observed. |
 
-# Random Table: Dead body
+### Random Table: Dead body
 The PCs will often run into the remains of an unfortunate soul - or even a monster - that has encountered their final fate in Drakkenheim. The PCs may have to roll an appropriate DC Medicine check to figure out some of these.
 
 | Creature (roll 1d20)                  |                                        | Death Cause (roll 1d20)                        |                                             |

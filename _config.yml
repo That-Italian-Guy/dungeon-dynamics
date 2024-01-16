@@ -63,7 +63,7 @@ author:
   bio    : "I design and play games."
   links:
     - label: "Bluesky"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-square"
       url: "https://bsky.app/profile/thatitalianguy.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -72,7 +72,7 @@ author:
 footer:
   links:
     - label: "Bluesky"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-square"
       url: "https://bsky.app/profile/thatitalianguy.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

@@ -13,8 +13,6 @@ tags:
 
 The Haze Moon happens every 28th day of the month. Scholars believe this to be tied to the regular tides and moon phase cycles, somehow exciting and influencing the deposits of Delerium in the waters and soil of Drakkenheim. Whatever the cause, during this night the Haze grows even deeper and creepy octarine lights can be seen dancing in the sky; the walls between our world and the Space Between Worlds grow thin during this time.
 
-{% include figure image_path="/assets/images/drakkenheim_extras/haze_moon1.webp" caption="ART: Northern Lights by Pertti Turunen" %}
-
 Adventuring in Drakkenheim during a Haze Moon is foolhardy, but also immensely profitable.
 
 ## Rich Delerium veins 

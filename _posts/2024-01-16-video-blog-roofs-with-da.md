@@ -6,8 +6,9 @@ toc: true
 header:
   teaser: /assets/images/video-blogs/da_roofs_banner.webp
 categories: 
-  - video blog
+  - vtt
 tags:
+  - video
   - vtt
   - foundry
   - dungeon alchemist

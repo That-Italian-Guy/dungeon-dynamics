@@ -10,12 +10,12 @@ categories:
 tags:
   - monster
 ---
-These rules aim at infusing new life into the iconic inhabitants of Drakkenheim, ensuring they remain relevant to the game without bogging down gameplay. Drawing inspiration from the ingenious Squad design introduced in Level Up: Advanced 5th Edition (A5E), this is an alternative approach to MCDM/4e minion style creatures that adds the same dynamic layer, making encounters more engaging without overwhelming the Dungeon Master.
+These rules aim at infusing new life into the iconic inhabitants of Drakkenheim, ensuring they remain relevant to the game without bogging down gameplay. Drawing inspiration from the ingenious Squad design introduced in Level Up: Advanced 5th Edition (A5E), this is an alternative approach to MCDM/4e minion style creatures that adds the same dynamic layer, making encounters more engaging without overwhelming the Dungeon Master. See also [Drakkenheim Extras: New Monsters](https://that-italian-guy.github.io/dungeon-dynamics/drakkenheim%20extras/drakkenheim-extra-creatures/) for more new monsters!
 
 ## New Conditions
 These stat blocks use the **bloodied**  and **weakened** custom condition. 
 
-### Bloodied
+### Bloodied for 
 A creature is **bloodied** when it has lost at least half of its maximum hit points. This does not have any direct impact, but one or more effects may check for this condition.
 
 ### Weakened

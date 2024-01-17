@@ -90,14 +90,10 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
-      analytics:
-        provider: "google-gtag"
-        google:
-          tracking_id: "UA-298792169-1"
-          anonymize_ip: false # default
+
   # _pages
   - scope:
       path: "_pages"
@@ -107,11 +103,6 @@ defaults:
         overlay_color: "#333"
       layout: single
       author_profile: true
-      analytics:
-        provider: "google-gtag"
-        google:
-          tracking_id: "G-XQ0HDTL680"
-          anonymize_ip: false # default
 
 category_archive:
   type: liquid
@@ -119,9 +110,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-XQ0HDTL680"
-    anonymize_ip: false # default

@@ -10,10 +10,101 @@ categories:
 tags:
   - monster
 ---
-These are some monsters that I have been using for my Dungeons of Drakkenheim campaign. Please be advised that these come with a general content warning for the themes commonly explored in dark fantasy, IE: body horror.
+These are some monsters that I have been using for my Dungeons of Drakkenheim campaign. Please be advised that these come with a general content warning for the themes commonly explored in dark fantasy, IE: body horror. See also [Drakkenheim Extras: Groups and Hordes](https://that-italian-guy.github.io/dungeon-dynamics/drakkenheim%20extras/drakkenheim-extra-groups-hordes/) for more monsters!
+
+## Rat Ogre
+A giant specimen of Ratling, compensate its diminished mental faculties with an increased capacity for violence. Often lead by a Ratling Handler to prevent it from snacking on other Ratlings.
+
+**Rat Ogre**
+_Large monstrosity, chaotic evil_
+
+**Armor Class** 14 (natural armor)
+<br>
+**Hit Points** 68 (8d8 + 32)
+<br>
+**Speed** 40 ft.
+
+**STR** 19(+4)
+**DEX** 12(+1)
+**CON** 18 (+4)
+<br>
+**INT** 3(-4)
+**WIS** 8(-1)
+**CHA** 5(-3)
+
+**Damage Resistances** poison, necrotic
+<br>
+**Condition Immunities** poisoned
+<br>
+**Senses** darkvision 60 ft., passive Perception 9
+<br>
+**Languages** Understands Common but can't speak 
+<br>
+**Challenge** 3 (700 XP)
+
+**TRAITS**
+<br>
+**Feral Brute.** When the Ogre is not within 60 ft. of a Ratling Hanlder that it can see or hear, it will attack the closest creature to itself during its turn.
+
+**ACTIONS**
+<br>
+**Arm Blade.** Melee Weapon Attack: +6 to hit, reach 10 ft. Hit: 13 (2d8+4) slashing damage.
+
+**Sweeping Strike** Melee Weapon Attack: +6 to hit, reach 5 ft., all creatures within 5 feet. Hit: 8 (1d8 + 4) bludgeoning damage, and if the target is a Medium or smaller creature, it makes a **DC 14 Strength** saving throw . On a failure, it is pushed up to 10 feet away from the Rat Ogre.
+
+**Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one grappled target. Hit: 15 (2d10+4) piercing damage, and the Rat Ogre regains the same number of hit points.
+
+**BONUS ACTIONS**
+<br>
+**Grab.** Melee Weapon Attack +6 to hit, reach 10 ft., one target. Hit 11 (2d6+4) bludgeoning damage. If the target is a Large or smaller creature, it is grappled (escape DC 13). Until this grapple ends, the Rat Ogre can’t use this action again.
+
+## Ratling Handler
+A very bright (or foolish) Ratling who specializes in Rat Ogre husbandry. With each poke, it orchestrates chaos, controlling the beast's rage and turning them into a formidable and more predictable force on the front lines.
+
+**Ratling Handler**
+_Small monstrosity, chaotic evil_
+
+**Armor Class** 13 (studded leather armor)
+<br>
+**Hit Points** 68 (8d8 + 32)
+<br>
+**Speed** 40 ft.
+
+**STR** 14 (+2)
+**DEX** 12(+1)
+**CON** 10 (+0)
+<br>
+**INT** 10(+0)
+**WIS** 14(+2)
+**CHA** 16(+3)
+
+**Skills** Deception +5, Perception +4, Stealth +5
+<br>
+**Senses** darkvision 60 ft., passive Perception 9
+<br>
+**Languages** Common
+<br>
+**Challenge** 1 (200 XP)
+
+**TRAITS**
+<br>
+**Skulker.** The ratling can take the Hide action as a bonus action on each of its turns.
+
+**Keen Smell.** The ratling has advantage on Wisdom (Perception) checks that rely on smell.
+
+**Pack Tactics.** The ratling has advantage on an attack roll against a creature if at least one of the ratling’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+
+**ACTIONS**
+<br>
+**Poking Stick.** Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 5(1d6 + 2) bludgeoning damage and, if the target is a Rat Ogre, it can move up to half its speed and make a melee attack.
+
+**Bite.** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+
+**BONUS ACTIONS**
+<br>
+**Control Rat Ogre (Recharge 6).** The Handler focuses the Rat Ogre's aggression. Until the Handler keeps Concentration on this effect (up to 1 minute), the Rat Ogre loses its Feral Brute trait and it benefits from the effects of _Bless_.
 
 ## Angler Flesh
-
 This amorphous blob of flesh looks like several different creatures merged together. The **Angler Flesh** owes its name to the lure attached to its main body through a slender fleshy appendage. The creature is able to morph the end of this appendage into the body of any small, innocuous creature it has previously absorbed (IE: a cat or a dog); it uses this mimicry to attract its prey, then strikes unannounced. It has the statistics of a **gibbering mouther**, with this additional Feature:  
 + **Angler’s Lure**: if a creature moves within 10ft of the Angler’s lure it is targeted by the Angler’s Bites attack. The Angler has advantage on the attack unless the target succeeds on a  **DC 14 Perception** roll. The Angler moves within 5 ft of the target as part of its Bites attack.
 + The Angler’s Flesh’s **Gibbering** Action is not active while the creature is stalking its prey.
@@ -35,7 +126,7 @@ A blob of animated delerium sludge, not large enough to be an animated delerium 
 This is a new **Haze Hulk** variant. It has the following features:
 + **Delerium Blood**: as a reaction when the Hulk is dealt physical damage, it bleeds out a sludge ooze that immediately rolls for initiative.
 + **Volatile**: the hulk is vulnerable to fire. If it’s reduced to 0HP by fire damage, it explodes causing 20 (3d10+3) necrotic damage to every creature within 20ft (save **DC 14 Constitution** halves). This damage inflicts Minor Contamination if you are using this rule).
-+ **Spray Ooze**: as a bonus action, the Hulk can spray some ooze against an enemy withing 60ft. The target must succeed on a DC14 Constitution saving throw or suffer 7 (2d6) necrotic damage (that inflicts Minor Contamination if you are using this rule). Then, spawn a sludge ooze (that immediately rolls for initiative) in an empty space next to the target.
++ **Spray Ooze (Recharge 5-6)**: as a bonus action, the Hulk can spray some ooze against an enemy withing 60ft. The target must succeed on a DC14 Constitution saving throw or suffer 7 (2d6) necrotic damage (that inflicts Minor Contamination if you are using this rule). Then, spawn a sludge ooze (that immediately rolls for initiative) in an empty space next to the target.
 
 ## Haze Brute
 A humanoid made unreasonably large and angry by the perils of Contamination. Uses the stat block of an **ogre** with the following changes:

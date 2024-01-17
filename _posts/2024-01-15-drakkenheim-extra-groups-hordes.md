@@ -206,7 +206,7 @@ _Huge aberration, unaligned_
 6. Two effects
 
 ## Garmyr Group
-_Large monstrosity, unaligned_
+_Large monstrosity, chaotic evil_
 
 **Armor Class** 15 (hide armor)
 <br>
@@ -249,7 +249,7 @@ _Large monstrosity, unaligned_
 **Spearwall.** When an enemy moves within 10 ft. of the group, the group can use its reaction to make a Spears attack against them.
 
 ## Garmyr Horde
-_Huge monstrosity, unaligned_
+_Huge monstrosity, chaotic evil_
 
 **Armor Class** 15 (hide armor)
 <br>
@@ -292,7 +292,7 @@ _Huge monstrosity, unaligned_
 **Spearwall.** When an enemy moves within 10 ft. of the horde, the horde can use its reaction to make a Spears attack against them.
 
 ## Ratling Group
-_Large monstrosity, unaligned_
+_Large monstrosity, chaotic evil_
 
 **Armor Class** 13 (unarmored)
 <br>
@@ -333,7 +333,7 @@ _Large monstrosity, unaligned_
 **Daggers in the Back.** Melee Weapon Attack +5 to hit, reach 5 ft. or range 20/60, one target. Hit 10 (3d4+3) piercing damage. If the attack is made with advantage, it inflicts 10 (3d6) extra damage.
 
 ## Ratling Horde
-_Huge monstrosity, unaligned_
+_Huge monstrosity, chaotic evil_
 
 **Armor Class** 14 (unarmored)
 <br>

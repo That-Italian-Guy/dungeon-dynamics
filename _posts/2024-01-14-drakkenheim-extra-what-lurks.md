@@ -15,8 +15,6 @@ Located between the Sprawl and the Drann River, the Leopold Von Drakken Reservoi
 This however, does not mean that the Reservoir is free of danger: a sentient **delerium weird** has made its lair in it, fed by its many **delerium weird spawns**. 
 If the characters can safely navigate its waters, they may be able to find an additional way into the city proper, bypassing the gates.
 
-{% include figure image_path="/assets/images/drakkenheim_extras/what_lurks.webp" caption="ART: Jeppe Hein: Bear your Consequences, IN IS THE ONLY WAY OUT, Cisternerne 2018. Photo: Anders Sune Berg" %}
-
 ## Delerium Weirds
 The delerium weird and its spawns are absorbing the bodies of all the unfortunates that die above and inside the Reservoir; the weird is also feeding off of the Contamination of the Haze and the Delerium inside the Reservoir.
 

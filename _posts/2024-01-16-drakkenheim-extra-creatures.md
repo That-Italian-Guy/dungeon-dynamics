@@ -102,7 +102,7 @@ _Small monstrosity, chaotic evil_
 
 **BONUS ACTIONS**
 <br>
-**Control Rat Ogre (Recharge 6).** The Handler focuses the Rat Ogre's aggression. Until the Handler keeps Concentration on this effect (up to 1 minute), the Rat Ogre loses its Feral Brute trait and it benefits from the effects of _Bless_.
+**Control Rat Ogre (Recharge 6).** The Handler focuses the Rat Ogre's aggression. As long as the Handler keeps Concentration on this effect (up to 1 minute), the Rat Ogre loses its Feral Brute trait and it benefits from the effects of _Bless_.
 
 ## Angler Flesh
 This amorphous blob of flesh looks like several different creatures merged together. The **Angler Flesh** owes its name to the lure attached to its main body through a slender fleshy appendage. The creature is able to morph the end of this appendage into the body of any small, innocuous creature it has previously absorbed (IE: a cat or a dog); it uses this mimicry to attract its prey, then strikes unannounced. It has the statistics of a **gibbering mouther**, with this additional Feature:  

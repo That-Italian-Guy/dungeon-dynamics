@@ -6,8 +6,9 @@ toc: false
 header:
   teaser: /assets/images/video-blogs/automate_complex.webp
 categories: 
-  - video blog
+  - vtt
 tags:
+  - video
   - vtt
   - foundry
   - tutorial

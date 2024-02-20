@@ -4,7 +4,7 @@ date: 2024-01-16
 excerpt: A collection of new rules and random tables for Dungeons of Drakkenheim.
 toc: true
 header:
-  teaser: /assets/images/drakkenheim_extras/mini_banner.webp
+  teaser: /assets/images/drakkenheim_extras/banner_DE_misc-addenda.webp
 categories: 
   - drakkenheim extras
 tags:

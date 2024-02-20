@@ -4,7 +4,7 @@ date: 2024-01-15
 excerpt: Efficient rules for handling numerous weak enemies in Dungeons of Drakkenheim.
 toc: true
 header:
-  teaser: /assets/images/drakkenheim_extras/mini_banner.webp
+  teaser: /assets/images/drakkenheim_extras/banner_DE_groups-hordes.webp
 categories: 
   - drakkenheim extras
 tags:

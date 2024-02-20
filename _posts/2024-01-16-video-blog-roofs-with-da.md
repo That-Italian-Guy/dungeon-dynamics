@@ -4,7 +4,7 @@ date: 2024-01-16
 excerpt: How to create and edit roofs with Dungeon Alchemist and a Photo editing software.
 toc: true
 header:
-  teaser: /assets/images/video-blogs/da_roofs_banner.webp
+  teaser: /assets/images/video-blogs/banner_da_roofs_002.webp
 categories: 
   - vtt
 tags:

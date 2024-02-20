@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A TTRPG game design blog about the monsters that live in dungeons and the heroes that fight them.
 logo: "/assets/images/logo.webp"
 github_username: That-Italian-Guy
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: default
 search: true
 teaser: /assets/images/teaser1.webp
 

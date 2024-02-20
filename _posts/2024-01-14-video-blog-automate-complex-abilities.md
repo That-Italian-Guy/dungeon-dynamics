@@ -1,10 +1,10 @@
 ---
-title: "Automate Complex Abilities with Foundry VTT"
+title: "Better Foundry VTT Automation"
 date: 2024-01-14
 excerpt: A showcase of my most used automation tips and tricks. Includes modules and macro usage.
 toc: false
 header:
-  teaser: /assets/images/video-blogs/automate_complex.webp
+  teaser: /assets/images/video-blogs/banner_automate_complex_002.webp
 categories: 
   - vtt
 tags:

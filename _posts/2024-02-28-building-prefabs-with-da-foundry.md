@@ -1,5 +1,5 @@
 ---
-title: "Click-n-Drag building prefabs with Dungeon Alchemist & Foundry VTT"
+title: "Building prefabs with Dungeon Alchemist & Foundry VTT"
 date: 2024-01-16
 excerpt: Leverage the Procedural Generation in Dungeon Alchemist to quickly create the base for prefab buildings in Foundry VTT that can be added to any battlemap.
 toc: true

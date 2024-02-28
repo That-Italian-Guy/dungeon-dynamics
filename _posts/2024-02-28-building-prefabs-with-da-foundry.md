@@ -19,7 +19,8 @@ tags:
 
 {% capture notice-text %}
 - [Better Roofs module](https://github.com/theripper93/Better-Roofs/)
-- Free assets from [Forgotten Adventures](www.forgotten-adventures.net)
+- All the assets for this prefab can be found here: [Images](https://imgur.com/a/CV7uDqV), [JSON file](https://pastebin.com/J5XZWd3f)
+- Free assets from [Forgotten Adventures](https://www.forgotten-adventures.net)
 - Music: [Bensound](https://www.bensound.com)
 - [Advanced Prefabs #1](https://youtu.be/4e9xosxoBu0)
 - [Advanced Prefabs #2](https://www.youtube.com/watch?v=ewHXyRNDnxo)

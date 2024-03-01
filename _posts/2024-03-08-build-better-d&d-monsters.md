@@ -213,8 +213,49 @@ The Void Invader can only take these actions when it is in an area where the spa
 
 While these might be the driest aspects of a design task, Core Stats play a crucial role in informing both the GM and players about how a monster fundamentally interacts with the game world. Can it see in the dark? Can it communicate with the players? Is it agile or cumbersome? What kind of environment suits it best?
 
+{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/invader_stats_001.jpg" caption="Void Invader Core stats." %}
+
 Carefully crafting a monster's core stats allows us to signal its strengths and weaknesses. By aligning these stats with the fundamental aspects of the monster's design, we can infuse more flavor into it.
 
 From a mechanical standpoint, unless dealing with a specialized creature, having a well-rounded core block is usually a good idea. This can be achieved by balancing strong and weak points or by creating an all-around balanced stat block.
 
 Looking at our Invader, the concept art suggests it is powerfully built, and we can assume its otherworldly nature grants it superhuman resilience. However, its alien frame is poorly adapted to our world—its movements are erratic and jarring, as if in a constant struggle to maintain its form stable in this reality. Its mind proves to be as formidable a weapon as its claws and teeth, perhaps even more so.
+
+## Acting out of initiative.
+We want our Boss monster to be a visible presence throughout the fight, and this means having it act outside of its normal turn.
+
+Occasionally, a monster centers around a crucial feature that shapes the entire encounter, setting up a scenario with a buildup and a payoff. However, the 5e initiative system poses a challenge: a Boss might roll poorly, delaying its actions significantly in the first turn. One potential solution, currently under exploration in One DnD, involves an ability that activates when a creature rolls for initiative.
+
+{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/invader_stats_002.jpg" caption="Reality Riptide allows the Invader to act at the start of the encounter." %}
+
+Our Invader's first Trait plays a central role in shaping its entire stat block—many of its abilities center around the breaches it creates and their reality-bending effects.  We want our Invader to reliably deploy these at the start of a fight, but since Dexterity is its weak spot, the Invader is going to act at or below initiative 10 more often than not. By triggering this action when it rolls for initiative, we ensure that the Boss gets to do something flashy at the start of the combat, providing a more dynamic and engaging opening to the encounter while giving the players a chance to react before the Boss takes its turn. 
+There is an interesting element to the saving throw, but we’ll talk more about this a bit later.
+
+Another way to have the Boss feel more dramatic and impactful is to give it Lair Actions.
+
+{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/invader_stats_003.jpg" caption="Lair Actions improve the Invader's presence on the battlefield." %}
+
+We aim for these actions to pack a punch equivalent to a full monster action, defining our Boss with flashy and memorable abilities. They should also be flexible enough that a monster will be able to reliably use all of them in a single fight.
+
+Now, the catch with Lair Actions is their dependence on the monster being in some form of Lair. While this can be somewhat abstracted (as per our example), it poses limitations, preventing the monster from reaching its full potential outside the Lair's conditions. On the flip side, it opens a window for a clever party to disrupt the monster's effectiveness by luring it out of its Lair.
+
+A noteworthy alternative, inspired by MCDM, is the concept of "Villain" actions. These operate similarly to Lair actions, but a powerful Boss monster inherently possesses them as part of its action-oriented design. You can learn more about this by checking out this video by Matt Colville, or their excellent Flee Mortals and Where Evil Lives 5e supplements.
+
+{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/flee_mortals.jpg" caption="MCDM's awesome monster manual." %}
+
+**Spatial Anomaly**: The first Lair Action on the Invader’s stat block is a combination of utility and offense. Intelligence tends to be a disregarded save, as mind-affecting abilities typically target Wisdom or Charisma. Our goal is to make this otherworldly entity feel truly "out of this world" - this is not your average magic user, but an inscrutable, vast, cold, alien mind. From a mechanical standpoint, this action allows the Invader to strategically relocate a pesky Sentinel fighter near a breach in reality, or to lure a tasty snack from the backlines next to itself.
+
+**Veil Breaker**: The second of the Invader’s Lair Actions allows it to play a nasty trick against those PCs that are standing dangerously close to the breaches, thinking they are safe. Tactical positioning is often an overlooked element in 5e and but it is quite relevant to this encounter. The surprise element adds a feeling of suspense—Will the breaches grow more? Will they move? It keeps players guessing and amps up the tension.
+
+As for the third Lair Action, we'll hold off on discussing it for now, but we'll circle back to it shortly for reasons that will become apparent.
+
+## Monster Bread and Butter: Actions
+This part of a monster's stat block details its primary attacks, typically consuming a significant portion of a monster's damage budget, especially in the case of non-boss monsters. 
+
+{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/invader_stats_004.jpg" caption="Actions represent a good chunk of a moster's potential." %}
+
+**Multiattack**: This is going to be an omnipresent action in most monster stat blocks, with higher-level monsters featuring three or even four attacks as part of their Multiattacks. We want our monster’s offense to be split up into several discrete chunks, because of two reasons: we can use it to split damage over multiple targets, avoiding a player being pasted by a single 40 damage attack; and it allows the GM more flexibility, when several options are provided. In this case, the profile is simple enough and the monster is going to use two Razor Grip attacks whenever Synaptic Tendrils is not charged.
+
+**Razor Grip**: Looking at the concept art, we see that our Invader has multiple spiked and clawed limbs. we'll provide it with two straightforward attacks that also carry the added effect of grappling the target upon a successful hit. This will allow the Invader to exert some level of control on the players’ positioning, granting it the ability to drag one or more grappled players into an area affected by a reality-shattering breach. We will allocate roughly half of the Invader’s damage budget to these attacks.
+
+**Synaptic Tendrils**: It is customary for a Boss monster to have at least one scary area of effect attack with some kind of limited usage - a sorcerous fireball, a dragon’s breath attack and so on. These abilities allow the monster to flex its muscles in a flashy way; when these abilities come with a recharge roll, the players should be engaged in the result! In our case, our Invader has some mind tendrils to go with the physical ones crawling out of its face. It is also a save or suck effect…or is it?

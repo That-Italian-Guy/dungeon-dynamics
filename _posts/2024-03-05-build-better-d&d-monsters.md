@@ -300,7 +300,7 @@ When planning complex, action oriented monsters, the goal is to offer the GM tac
 In the case of the Void Invader, it may look something like this:
 - **1st Round**: Veil Breaker + 1 Razor Grip + Synaptic Tendrils + Chest Maw =  **43** average damage
 - **2nd Round**: Dimensional Maw + 2 Razor Grip + Chest Maw =  **52** average damage
-- **3rd Round**: Spatial Anomaly + 2 Razor Grip + Chest Maw = b average damage
+- **3rd Round**: Spatial Anomaly + 2 Razor Grip + Chest Maw = **39** average damage
 
 We are going over budget by about 25% on a round, which is within acceptable margins for a Boss monster with Lair Actions. Keep in mind, this isn't set in stone - Synaptic Tendrils might recharge more frequently than the anticipated 33%, or the GM may have a high damage turn: 
 

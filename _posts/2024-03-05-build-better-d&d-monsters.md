@@ -102,7 +102,7 @@ A good example of this is something in 5e called “bounded accuracy”. It's ba
 
 This implies that nearly every aspect of a monster’s design has a measurable, expected average value linked to its Challenge Rating. A couple of excellent resources for this kind of math are BLOGOFHOLDING.COM's [Monster Manual on a Business Card](https://www.blogofholding.com/?p=7338) and Level Up: Advanced 5e's [DESIGNING MONSTERS section of the Monster Menagerie](https://a5e.tools/rules/designing-monsters). 
 
-{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/monstrous_menagerie.jpg" caption="Mike Shea, Theos Abadia and Scott Fitzgerald Gray's Monster design guide" %}
+{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/monstrous_menagerie.jpg" caption="Paul Hughes excellent companion to the Monster Manual" %}
 
 Both are fairly similar - which is unsurprising since they were both based on existing 5e official monsters and, as far as I know, both were written by Paul Hughes. Forge of Foes also provides its tables and rules for expected monster stats based on CR. 
 
@@ -176,6 +176,7 @@ What do we know about the Void Invader? It is otherworldly, it punches holes in 
 **Speed**       : 40ft. <br>
 ___
 
+
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |18 (+4)|9 (-1)|20 (+5)|19 (+4)|16 (+3)|13 (+1)|
@@ -189,7 +190,9 @@ ___
 **Senses**               : Darkvision 120 ft., Passive Perception 16 <br>
 **Languages**            : Deep Speech, telepathy 120 ft. <br>
 **Challenge**            : 7 (2,900 XP) <br>
+
 ___
+
 ***Reality Shift (3/day).*** If the Invader fails a saving throw, it can choose to succeed instead; when it does so, it loses any temporary hit points it currently has and it can’t use its *Chest Maw* attack until the end of its next turn.
 
 ***Reality Riptide.*** The Invader projects a strong un-reality field and its mere presence can torn asunder the fabric of reality when it senses its prey. When it rolls for initiative, the Invader opens breaches into the Void at three empty spots that it can see within 60 feet, shattering reality in a 10-feet-radius area centered around each spot. A creature starting their turn in one or more of these areas must succeed on a *DC 15 Wisdom* saving throw or be *restrained* until the start of their next turn. A creature restrained in such a way can use a bonus action to push their mind to its limits, removing the restrained condition and taking *14 (4d6)* psychic damage. The breaches persist for 1 hour or until the Invader rolls for initiative again.
@@ -351,6 +354,7 @@ Like we did with the Invader, we'll mainly stick to average values suitable for 
 **Speed**       : 30 ft., climb 30 ft.
 ___
 
+
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |14 (+2)|16 (+3)|14 (+2)|6 (-2)|12 (+1)|6 (-2)|
@@ -363,7 +367,9 @@ ___
 **Senses**               : Darkvision 60 ft., Passive Perception 13 <br>
 **Languages**            : -- <br>
 **Challenge**            : 2 (450 XP) <br>
+
 ___
+
 **Fractured Reality**. The Void Spawn’s nature intrinsically distorts perception, inducing confusion and disorientation. When the maximum value is rolled on at least 1 damage die for an attack made against the Spawn, the damage of the attack is halved.
 
 ### Actions
@@ -383,7 +389,7 @@ In this context, achieving "Elegant Design" implies striking a delicate balance 
 
 Let’s have a look at a Trait for the Void Spawn, examining the decisions that lead to its final optimized (and hopefully engaging) version.
 
-Elements of “Elegant Design”
+## Elements of “Elegant Design”
 One of the key tenets of Elegant Design revolves around standardization and the strategic reuse of existing systems. This makes it easier for everyone to remember how specific effects work and to keep things consistent. An often optimal way to achieve this result is to simply reuse an existing effect the players may already be familiar with.
 
 When designing a defensive trait for the Void Spawn, rooted in its surreal nature, the first solution was to simply give it a Mirror Image effect.

@@ -100,7 +100,11 @@ I emphasized the CR selection because in 5e, there's a structured reliance on an
 
 A good example of this is something in 5e called “bounded accuracy”. It's basically the game's way of keeping things in check and avoiding crazy power creep. Unlike earlier editions, where numbers would skyrocket with each level, 5e maintains a more restrained scaling system. Whether it's the chance to hit or the DC of a creature’s effects, the increments are more moderate and, more important for our design needs, more linear.
 
-This implies that nearly every aspect of a monster’s design has a measurable, expected average value linked to its Challenge Rating. A couple of excellent resources for this kind of math are BLOGOFHOLDING.COM's Monster Manual on a Business Card and Level Up: Advanced 5e's DESIGNING MONSTERS section of the Monster Menagerie. Both are fairly similar - which is unsurprising since they were both based on existing 5e official monsters and, as far as I know, both were written by Paul Hughes. Forge of Foes also provides its tables and rules for expected monster stats based on CR. 
+This implies that nearly every aspect of a monster’s design has a measurable, expected average value linked to its Challenge Rating. A couple of excellent resources for this kind of math are BLOGOFHOLDING.COM's [Monster Manual on a Business Card](https://www.blogofholding.com/?p=7338) and Level Up: Advanced 5e's [DESIGNING MONSTERS section of the Monster Menagerie](https://a5e.tools/rules/designing-monsters). 
+
+{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/monstrous_menagerie.jpg" caption="Mike Shea, Theos Abadia and Scott Fitzgerald Gray's Monster design guide" %}
+
+Both are fairly similar - which is unsurprising since they were both based on existing 5e official monsters and, as far as I know, both were written by Paul Hughes. Forge of Foes also provides its tables and rules for expected monster stats based on CR. 
 
 ## Expected Offensive Capabilities
 Once you have established the CR of your monster, the first step is figuring out how good it should be at landing attacks and how tough its abilities are to resist. This boils down to two key factors: the monster’s proficiency bonus and how high their main attack Ability (like Dexterity or Charisma) is.
@@ -171,9 +175,11 @@ What do we know about the Void Invader? It is otherworldly, it punches holes in 
 **Hit Points**  : 126 (12d10 + 60) <br>
 **Speed**       : 40ft. <br>
 ___
+
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |18 (+4)|9 (-1)|20 (+5)|19 (+4)|16 (+3)|13 (+1)|
+
 ___
 **Saving Throws**        : Constitution +8, Intelligence +7, Wisdom +6 <br>
 **Skills**               : Athletics +7, Arcana +7, Perception +6 <br>
@@ -344,9 +350,11 @@ Like we did with the Invader, we'll mainly stick to average values suitable for 
 **Hit Points**  : 39 (6d8 + 12) <br>
 **Speed**       : 30 ft., climb 30 ft.
 ___
+
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |14 (+2)|16 (+3)|14 (+2)|6 (-2)|12 (+1)|6 (-2)|
+
 ___
 **Saving Throws**        : Dexterity +5 <br>
 **Skills**               : Stealth +5 <br>

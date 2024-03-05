@@ -403,7 +403,7 @@ In the end, it preserves the thematic fantasy of a creature manipulating reality
 ## Balancing effectiveness and speed
 Making the Void Spawn easier to run than the Invader is a priority, but we still want it to be interesting for the players to fight and to work well with the Boss's abilities.
 
-{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/spawn_stats_006.jpg" caption=Void Spawn Actions." %}
+{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/spawn_stats_006.jpg" caption="Void Spawn Actions." %}
 
 We gave the Spawn two attacks to spread out the damage and increase the chances of triggering the extra effects of Prehensile Tongue. The repeated saves might slow things down a bit, but I'm less worried here, for a couple of reasons: it's an interactive roll that gives players something to do, not extra work for the GM; and it's like a one-on-one challenge against a monster rather than an abstracted roll.
 With an expected average damage of just 10 per round (even with the potential for two minor conditions), we're keeping a Bonus Action in reserve to add some action-oriented elements to the Spawn.

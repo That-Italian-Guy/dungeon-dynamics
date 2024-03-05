@@ -340,7 +340,7 @@ Now that we have our Boss monster, it is time to build some underlings for the e
 
 Once again, we are building this monster starting from two essential elements: concept art and a broad vision of its identity and functionality.
 
-{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/invader_001.jpg" caption="Void Spawns." %}
+{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/spawn_001.jpg" caption="Void Spawns." %}
 
 We know the Void Spawns are going to be as otherworldly as the Invader, so we want her alien nature to be apparent in the stat block. From the concept art, they seem to be somewhat agile, with a long tongue and with a set of massive scythe-like talons on their back. We want them to act as a force multiplier for the Boss, making it easier for the Invader to keep people inside the areas affected by Reality Riptide.
 

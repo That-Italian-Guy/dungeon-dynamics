@@ -484,9 +484,9 @@ Their journey leads them to the abandoned tower ruin, where they confront not on
 
 {% capture notice-free %}
 ## Download Links
-- [Echoes of the Void v1.2 PDF](assets/files/echoes-of-the-void-PDF-v1.2.rar)
-- [Foundry module v1.0](assets/files/echoes-of-the-void-foundry-v1.0.rar)
-- [Battlemaps](assets/files/echoes-of-the-void-battlemaps.rar)
+- [Echoes of the Void v1.2 PDF](https://github.com/That-Italian-Guy/dungeon-dynamics/raw/fix-links/assets/files/echoes-of-the-void-PDF-v1.2.rar)
+- [Foundry module v1.0](https://github.com/That-Italian-Guy/dungeon-dynamics/raw/fix-links/assets/files/echoes-of-the-void-foundry-v1.0.rar)
+- [Battlemaps](https://github.com/That-Italian-Guy/dungeon-dynamics/raw/fix-links/assets/files/echoes-of-the-void-battlemaps.rar)
 - You don't need to download the Battlemaps if you are using the Foundry module!
 {% endcapture %}
 <div class="notice--info">

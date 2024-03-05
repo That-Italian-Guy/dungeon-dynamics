@@ -1,4 +1,4 @@
-![image](https://github.com/That-Italian-Guy/dungeon-dynamics/assets/106380880/541abe7e-0d50-4b9d-a029-1d98e5719020)---
+---
 title: "Build Better D&D Monsters"
 date: 2024-01-16
 excerpt: How to design Action-Oriented Monsters for dynamic, tactical encounters.

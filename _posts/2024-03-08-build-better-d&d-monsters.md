@@ -334,3 +334,132 @@ We know the Void Spawns are going to be as otherworldly as the Invader, so we wa
 
 Like we did with the Invader, we'll mainly stick to average values suitable for the Spawns' CR - showcasing how, through action-oriented design, we can build a distinctive monster even when working with somewhat standard numbers.
 
+## Void Spawn 
+*Medium aberration, chaotic evil*
+
+**Armor Class** : 13 (natural armor) <br>
+**Hit Points**  : 39 (6d8 + 12) <br>
+**Speed**       : 30 ft., climb 30 ft.
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|14 (+2)|16 (+3)|14 (+2)|6 (-2)|12 (+1)|6 (-2)|
+___
+**Saving Throws**        : Dexterity +5 <br>
+**Skills**               : Stealth +5 <br>
+**Damage Resistances**   : Psychic <br>
+**Condition Immunities** : Grappled, Restrained <br>
+**Senses**               : Darkvision 60 ft., Passive Perception 13 <br>
+**Languages**            : -- <br>
+**Challenge**            : 2 (450 XP) <br>
+___
+**Fractured Reality**. The Void Spawn’s nature intrinsically distorts perception, inducing confusion and disorientation. When the maximum value is rolled on at least 1 damage die for an attack made against the Spawn, the damage of the attack is halved.
+
+### Actions
+***Multiattack.*** The Void Spawn makes two Prehensile Tongue attacks.
+
+***Prehensile Tongue.*** *Melee Weapon Attack:* +5 to Hit, reach 15 ft., one target, Hit: 5 (1d4+3) bludgeoning damage and if the target is a Large or smaller creature it must make a DC 13 Strength saving throw or be pulled up to 15 ft. towards the Spawn and be knocked prone.
+
+### Bonus Actions
+***Hobbling Talons.*** *Melee Weapon Attack:* +5 to Hit, reach 5 ft, one prone creature, Hit: 7 (1d8+3) piercing damage and the target’s speed is halved until the end of its next turn.
+
+## Non-boss Monsters: One of Many
+When building a monster that is going to appear in multiple copies in the same encounter,  the design approach becomes a dance between efficiency and engagement, especially when sharing the stage with a complex Boss. 
+
+The focus shifts from mere combat prowess to streamlining admin aspects -  simplifying the tracking of their effects and ensuring swift turns while keeping the excitement of action-oriented elements.
+
+In this context, achieving "Elegant Design" implies striking a delicate balance between granularity and variety on one side and minimizing potential confusion or game slowdowns on the other. 
+
+Let’s have a look at a Trait for the Void Spawn, examining the decisions that lead to its final optimized (and hopefully engaging) version.
+
+Elements of “Elegant Design”
+One of the key tenets of Elegant Design revolves around standardization and the strategic reuse of existing systems. This makes it easier for everyone to remember how specific effects work and to keep things consistent. An often optimal way to achieve this result is to simply reuse an existing effect the players may already be familiar with.
+
+When designing a defensive trait for the Void Spawn, rooted in its surreal nature, the first solution was to simply give it a Mirror Image effect.
+
+{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/spawn_stats_002.jpg" caption="First iteration." %}
+
+Opting for the Mirror Image effect had its perks—it saved time by tapping into players' familiarity and kept the trait description concise. However, it introduced new challenges. It saddled the combat with multiple additional rolls; the GM had to track each Spawn's remaining images; different thresholds for the d20 rolls further complicated matters. 
+
+This had the immediate benefit of using an effect the players were already familiar with, cutting down on explanation time; while keeping the trait’s description brief. It, however, ran into a bunch of other issues. First of all, the multiple additional dice rolls would slow down the combat; second, the GM would have to keep track of how many images each individual Spawn had left; finally, each image count has a different d20 roll threshold for an image to be struck.
+
+ While reusing an existing effect could usually be considered Elegant Design, in this case it proved otherwise. Thus, Fractured Reality was revisited for a more refined solution.
+
+{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/spawn_stats_003.jpg" caption="Second iteration." %}
+
+This new version simplified image tracking and roll thresholds, but it still had the same setback of slowing down the game with multiple extra rolls. It was also quite a powerful ability - granting the Spawn a consistent 50% damage reduction against attacks. Third time’s the charm?
+
+{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/spawn_stats_004.jpg" caption="Third iteration." %}
+
+This version addressed the persistent 50% damage reduction but brought its own set of challenges. The GM's task of tracking each Spawn's reaction usage was a bit unwieldy. And considering the goal of having Spawns assist the Invader in controlling PC movements, preserving their reactions for Attacks of Opportunity was crucial. This is how we got to the final version.
+
+{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/spawn_stats_005.jpg" caption="Final iteration." %}
+
+This version of Fractured Reality satisfies all our design goals: it is economous in its admin time, not needing any additional roll; features concise text, doesn't burden the GM with additional tracking, keeps the Spawn's reaction available; it can trigger multiple times, but it is not too powerful. 
+
+In the end, it preserves the thematic fantasy of a creature manipulating reality and fulfills its role of providing situational damage reduction. To offset this, I’ve slightly reduced the Spawn's hit points by about 15% from the expected average value of 45.
+
+## Balancing effectiveness and speed
+Making the Void Spawn easier to run than the Invader is a priority, but we still want it to be interesting for the players to fight and to work well with the Boss's abilities.
+
+{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/spawn_stats_006.jpg" caption=Void Spawn Actions." %}
+
+We gave the Spawn two attacks to spread out the damage and increase the chances of triggering the extra effects of Prehensile Tongue. The repeated saves might slow things down a bit, but I'm less worried here, for a couple of reasons: it's an interactive roll that gives players something to do, not extra work for the GM; and it's like a one-on-one challenge against a monster rather than an abstracted roll.
+With an expected average damage of just 10 per round (even with the potential for two minor conditions), we're keeping a Bonus Action in reserve to add some action-oriented elements to the Spawn.
+
+{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/spawn_stats_007jpg" caption=Void Spawn Bonus Action." %}
+
+This attack brings the damage profile of the Spawn more in line with its expected budget of 15. Halving someone’s speed is usually an almost negligible effect, but in this specific combat - where mobility is king - it poses a much more credible threat. As a reminder, in 5e the same effect does not stack in magnitude if it is applied multiple times by the same source - so, no need to track how many times Hobbling Talons slowed the same target—keeps things simple. At the same time, standing from prone consumes an amount of movement equal to half your speed, so if someone is knocked prone and then Hobbled, their mobility shrinks to a crawl.
+
+## Synergies and Force Multipliers
+A single spawn’s abilities have Internal Synergy—Prehensile Tongue knocks foes down, setting up Hobbling Talons to keep them grounded.
+
+When multiple Spawns are fought together, their abilities have Group Synergy, enabling each other’s Hobbling Talons. They also act as Force Multipliers. Once a target is down, the next Spawn gets advantage on attacks. And a lone pull might not be a big threat, but picture three spawns dragging a victim up to 90 ft. before Hobbling them—now that's a real challenge!
+
+Finally, they act as a Force Multiplier for the Invader, by repositioning and pinning PCs inside the areas affected by Reality Riptide. A 5 damage attack of opportunity isn’t a big deal…but add reach, a pull, and prone near a reality-bending breach, and escaping gets tricky.
+
+In this fight, the players will want to move around a lot and the Spawns are going to make things difficult - and hopefully fun! - for them. 
+
+This doesn’t mean that these monsters can’t be fun to fight outside of a Boss encounter. A group of Void Spawns attacking the players on their own can be a very interesting challenge with the appropriate battlemap - verticality and hazardous terrain become much more threatening when your monsters have a climb speed and they can pull PCs around with their attacks.
+
+# Finishing Touches
+## Peer Review (or Self Review)
+No game designer is immune to biases, and even seasoned creators can have blind spots. That's why having someone you trust review your work before progressing is valuable.
+
+Peer review, a common practice in technical fields, helps refine a monster's stat block, smoothing out any rough edges. What seems clear to you may need additional details for others unfamiliar with the design. Errors in math or other crucial aspects might also surface during this process.
+
+If you lack a peer reviewer, taking a break and revisiting your work with fresh eyes the next day can be surprisingly effective. It's surprising how things that looked well-designed initially might seem messy after you haven’t thought about them for a while.
+Monster Building exercise - Peer Review
+When I submitted the Void Invader and Void Spawns for peer review, two main elements surfaced, aside from minor clarifications and typos—appropriately, one per monster.
+Initially, the Invader's Reality Riptide was one of its Lair Actions. Feedback suggested this action felt too crucial, making it the obvious choice for a DM on turn 1. While I included it as a Lair Action to ensure it triggered before the Invader’s first turn (with a -1 initiative modifier, the Invader could not possibly beat the Lair’s 20), I overlooked how this could limit the DM's options and dampen the overall enjoyment. Thus, Reality Riptide transformed into a trait that activates when the Invader rolls initiative, and Veil Breaker took its place as a new Lair Action.
+
+The second significant change came to the Spawn's Prehensile Tongue attack. Originally, it was a "Melee or Ranged" attack with a reach of 10 feet or a range of 30 feet. Feedback suggested this versatile toolkit was too potent for a CR2 creature. To address this, I opted for the melee option, extending their reach slightly to enhance their ability to interfere with players’ movement and match their pull distance.
+
+## Playtesting
+Once you've wrapped up writing and reviewing your monsters to an acceptable standard, it's time to put them to the test against real opponents!
+Playtesting is crucial for addressing those edge cases and judgment calls that come with designing more intricate abilities. It helps answer questions about subtle design elements that go beyond simple math rules: Are there unexpected interactions between the monsters' abilities? Is one ability over or underperforming? Is their theme, role, and fantasy coming through in their actions? And most importantly, are they fun to fight?
+Recruit players, set character creation rules, and guide your party through one or more encounters, depending on how many monsters you have to test. Ensure the feedback you gather is actionable and avoid leading questions. If possible, have someone other than you run the playtest to minimize unconscious biases - this encourages the playtesters to be frank and direct with their opinions.
+Playtesting and feedback collection are substantial topics that we'll delve into in more detail in the future. For now, if you're looking for a solid starting point, you can check out "Pesto’s Guide to Testing" by MCDM’s senior contract tester Spencer Hibnick. It's available as a Pay What You Want document on DriveThruRPG.
+
+### Monster Building exercise - Peer Review
+I tested these monsters in a single encounter against a 5-strong party of level 5 adventurers, including a sorcerer, paladin, rogue, cleric, and a moon druid-barbarian multiclass. An excellent way to assess how a mostly melee-focused party would fare against monsters with such an array of crowd control effects.
+Before the playtest, there was no option to escape the effects of Reality Riptide by taking damage, and Hobbling Talons set the speed to 0 instead of halving it. This resulted in a couple of characters spending all 5 rounds of the combat under some form of crowd control, with the sorcerer spending most of the encounter flat on their back, unable to stand up.
+
+This is really bad, right? Well, yes and no. Even restrained, prone, and with a speed of 0, the sorcerer could cast non-attack spells without issues, launching a fireball that instantly took out one Spawn and dealt substantial damage to the Invader. The primary disadvantage was on the defensive side, easily mitigated by spells like Misty Step.
+
+Stacked crowd control posed a more significant problem for the moon druid-barbarian. While a raging brown bear is intimidating, it's not much of a threat if you are standing just beyond its reach. Although not the best from an optimization standpoint, a mainly melee character is a common fantasy for many players. These characters are often the sturdiest, so introducing a "take damage to break free" option felt like the right solution.
+
+Outside of the case of a pure melee character, the players felt that the lack of true ranged options on the monsters’ side made the amount of crowd control feel more fair - the Void Invader could not simply place down Reality Riptide as a barrier and shoot over it. The monsters’ need to engage up close allowed characters with high mobility, like a dashing rogue, a mounted paladin, or a teleporting sorcerer, to leverage that advantage, employing hit-and-run tactics to their benefit.
+
+Players particularly enjoyed Reality Riptide, feeling it added significance to positioning, especially when paired with Veil Breaker. If you remember, this was one of our design goals, so I was really happy to hear that!
+
+After a few tweaks, the final adjustments to our monsters were made. It was time to unleash them on the unsuspecting population of a nearby town…
+
+# Free Adventure "Echoes of the Void"
+
+In "Echoes of the Void," the adventurers find themselves drawn into a village plagued by mysterious disappearances. As they investigate, they uncover a sinister peril involving interdimensional creatures from the Void. The source of these eldritch horrors is an abandoned tower ruin hidden within the nearby forest, where a forgotten relic weakens the veil between dimensions.
+
+The adventurers must investigate the village and the surrounding countryside, piecing together clues to the nature of the threat and its source. Along the way, they encounter frightened villagers, haunted landscapes, and the lingering echoes of the Void's influence.
+
+Their journey leads them to the abandoned tower ruin, where they confront not only the Void Invader and its Spawns but also the perilous artifact responsible for weakening the barriers between worlds. To save the village and restore the fabric of reality, the adventurers must defeat the creatures and neutralize the artifact.
+

@@ -459,7 +459,7 @@ After a few tweaks, the final adjustments to our monsters were made. It was time
 
 In "Echoes of the Void," the adventurers find themselves drawn into a village plagued by mysterious disappearances. As they investigate, they uncover a sinister peril involving interdimensional creatures from the Void. The source of these eldritch horrors is an abandoned tower ruin hidden within the nearby forest, where a forgotten relic weakens the veil between dimensions.
 
-{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/free_stuff.jpg" caption=Void Spawn Bonus Action." %}
+{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/free_stuff.jpg" caption=Get your freebies here!" %}
 
 The adventurers must investigate the village and the surrounding countryside, piecing together clues to the nature of the threat and its source. Along the way, they encounter frightened villagers, haunted landscapes, and the lingering echoes of the Void's influence.
 
@@ -467,8 +467,23 @@ Their journey leads them to the abandoned tower ruin, where they confront not on
 
 {% capture notice-free %}
 ## Download Links
-- 
+- [Echoes of the Void v1.2 PDF](assets/files/echoes-of-the-void-PDF-v1.2.rar)
+- [Foundry module v1.0](assets/files/echoes-of-the-void-foundry-v1.0.rar)
+- [Battlemaps](assets/files/echoes-of-the-void-battlemaps.rar)
+  - You don't need to download the Battlemaps if you are using the Foundry module!
 {% endcapture %}
 <div class="notice--info">
   {{ notice-free | markdownify }}
 </div>
+
+### Foundry VTT Module installation
+To install the module:
+- Unzip the .rar file 
+- Place the folder _echoes-of-the-void_ into the _Data/modules/_ folder in your hidden user data folder, usually at _C:\Users\YOUR_WINDOWS_USER\AppData\Local\FoundryVTT_.
+- If Foundry is running, it must be restarted for the software to recognize and load the new module.
+- Add the module to the World you want to run the Adventure in. This world must use the dnd5e system.
+- Once the module has been added and loaded, go to the Compendiums tab and open up the EOTV compendium.
+{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/module_installation_001.jpg" caption=It is an Adventure type compendium" %}
+- Click on the Adventure inside of the compendium.
+- Click on "Import Adventure".
+

@@ -408,7 +408,7 @@ Making the Void Spawn easier to run than the Invader is a priority, but we still
 We gave the Spawn two attacks to spread out the damage and increase the chances of triggering the extra effects of Prehensile Tongue. The repeated saves might slow things down a bit, but I'm less worried here, for a couple of reasons: it's an interactive roll that gives players something to do, not extra work for the GM; and it's like a one-on-one challenge against a monster rather than an abstracted roll.
 With an expected average damage of just 10 per round (even with the potential for two minor conditions), we're keeping a Bonus Action in reserve to add some action-oriented elements to the Spawn.
 
-{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/spawn_stats_007.jpg" caption=Void Spawn Bonus Action." %}
+{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/spawn_stats_007.jpg" caption="Void Spawn Bonus Action." %}
 
 This attack brings the damage profile of the Spawn more in line with its expected budget of 15. Halving someone’s speed is usually an almost negligible effect, but in this specific combat - where mobility is king - it poses a much more credible threat. As a reminder, in 5e the same effect does not stack in magnitude if it is applied multiple times by the same source - so, no need to track how many times Hobbling Talons slowed the same target—keeps things simple. At the same time, standing from prone consumes an amount of movement equal to half your speed, so if someone is knocked prone and then Hobbled, their mobility shrinks to a crawl.
 
@@ -460,7 +460,7 @@ After a few tweaks, the final adjustments to our monsters were made. It was time
 
 In "Echoes of the Void," the adventurers find themselves drawn into a village plagued by mysterious disappearances. As they investigate, they uncover a sinister peril involving interdimensional creatures from the Void. The source of these eldritch horrors is an abandoned tower ruin hidden within the nearby forest, where a forgotten relic weakens the veil between dimensions.
 
-{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/free_stuff.jpg" caption=Get your freebies here!" %}
+{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/free_stuff.jpg" caption="Get your freebies here!" %}
 
 The adventurers must investigate the village and the surrounding countryside, piecing together clues to the nature of the threat and its source. Along the way, they encounter frightened villagers, haunted landscapes, and the lingering echoes of the Void's influence.
 
@@ -484,7 +484,7 @@ To install the module:
 - If Foundry is running, it must be restarted for the software to recognize and load the new module.
 - Add the module to the World you want to run the Adventure in. This world must use the dnd5e system.
 - Once the module has been added and loaded, go to the Compendiums tab and open up the EOTV compendium.
-{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/module_installation_001.jpg" caption=It is an Adventure type compendium" %}
+{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/module_installation_001.jpg" caption="It is an Adventure type compendium" %}
 - Click on the Adventure inside of the compendium.
 - Click on "Import Adventure".
 

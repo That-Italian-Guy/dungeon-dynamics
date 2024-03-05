@@ -4,7 +4,7 @@ date: 2024-03-05
 excerpt: How to design Action-Oriented Monsters for dynamic, tactical encounters.
 toc: true
 header:
-  teaser: /assets/images/video-blogs/MM_vlog_001_blog_banner.jpg
+  teaser: /assets/images/video-blogs/mm_vlog_001/MM_vlog_001_blog_banner.jpg
 categories: 
   - game design
 tags:

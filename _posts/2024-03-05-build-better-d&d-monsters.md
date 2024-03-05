@@ -102,7 +102,7 @@ A good example of this is something in 5e called “bounded accuracy”. It's ba
 
 This implies that nearly every aspect of a monster’s design has a measurable, expected average value linked to its Challenge Rating. A couple of excellent resources for this kind of math are BLOGOFHOLDING.COM's [Monster Manual on a Business Card](https://www.blogofholding.com/?p=7338) and Level Up: Advanced 5e's [DESIGNING MONSTERS section of the Monster Menagerie](https://a5e.tools/rules/designing-monsters). 
 
-{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/monstrous_menagerie.jpg" caption="Mike Shea, Theos Abadia and Scott Fitzgerald Gray's Monster design guide" %}
+{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/monstrous_menagerie.jpg" caption="Paul Hughes excellent companion to the Monster Manual" %}
 
 Both are fairly similar - which is unsurprising since they were both based on existing 5e official monsters and, as far as I know, both were written by Paul Hughes. Forge of Foes also provides its tables and rules for expected monster stats based on CR. 
 
@@ -175,6 +175,7 @@ What do we know about the Void Invader? It is otherworldly, it punches holes in 
 **Hit Points**  : 126 (12d10 + 60) <br>
 **Speed**       : 40ft. <br>
 ___
+
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -350,6 +351,7 @@ Like we did with the Invader, we'll mainly stick to average values suitable for 
 **Hit Points**  : 39 (6d8 + 12) <br>
 **Speed**       : 30 ft., climb 30 ft.
 ___
+
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|

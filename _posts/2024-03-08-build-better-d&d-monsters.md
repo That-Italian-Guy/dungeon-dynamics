@@ -259,3 +259,78 @@ This part of a monster's stat block details its primary attacks, typically consu
 **Razor Grip**: Looking at the concept art, we see that our Invader has multiple spiked and clawed limbs. we'll provide it with two straightforward attacks that also carry the added effect of grappling the target upon a successful hit. This will allow the Invader to exert some level of control on the players’ positioning, granting it the ability to drag one or more grappled players into an area affected by a reality-shattering breach. We will allocate roughly half of the Invader’s damage budget to these attacks.
 
 **Synaptic Tendrils**: It is customary for a Boss monster to have at least one scary area of effect attack with some kind of limited usage - a sorcerous fireball, a dragon’s breath attack and so on. These abilities allow the monster to flex its muscles in a flashy way; when these abilities come with a recharge roll, the players should be engaged in the result! In our case, our Invader has some mind tendrils to go with the physical ones crawling out of its face. It is also a save or suck effect…or is it?
+
+## Save or Suck (the fun out of a game)
+Save or Suck effects are a staple of D&D - from the lowly hold person, to older edition insta-kill spells like Finger of Death. In 5e, the latter has been somewhat toned down, but non-lethal save or suck spells are alive and well. And while powerful monsters can avoid effects like Banishment with Legendary Resistance, players lack that luxury.
+
+There are two schools of thought on player agency in 5e, and I firmly believe that "not being able to act on your turn" sucks. Even with experienced players, it may take 15 to 20 minutes before someone gets a turn; if all they can do is say "I am stunned" and pass, it means 30 to 40 minutes before they can play.
+
+A good alternative is to offer players a choice, restoring some agency. Here, players can choose between a severe condition and significant damage—enough to bring most level 5 characters below half their maximum hit points. If there was any doubt, now the players know to avoid areas affected by Reality Riptide!
+
+These limited usage effects allow a monster to have "power turns" that break free from the normal constraints of its damage budget. We account for this by replacing one of the Invader’s regular attacks and having it deal less than its full 40 points of damage on "off turns" when it lacks access to this action. 
+
+## The Cherry on Top: Bonus Actions and Reactions
+{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/invader_stats_005.jpg" caption="Rounding up the stat block." %}
+
+While Actions form the core of a stat block, Bonus Actions and Reactions help complete a monster’s profile with more specialized or situational abilities. Depending on the monster's nature, these additions can enhance its offense or defense, or offer additional utility through buffs for allies or debuffs for enemies.
+
+The Void Invader is a monster with standard defenses - Armor Class, Hit Points - that relies on precise positioning for a lot of its abilities to function properly and notably lacking ranged attacks. Void Jaunt enhances both its survivability and mobility, offering a versatile option for defensive maneuvers and offensive tactics.
+
+There is a jagged elephant in the room: looking at the concept art, we can see that the Invader has a large mouth filled with pointy teeth on its chest. We are going to use our allotted Bonus Action to add a situational but more powerful attack to the Invader’s profile; this also comes with the added benefit of adding a bit of quasi-healing to the monster for added survivability - Boss monsters tend to be a bit tougher than a regular creature of the same CR. 
+
+When calculating the budget for a situational attack, it is customary to only count half to three quarters of its expected damage - since it will only be available on certain turns. In our scenario, as we anticipate it to be almost always available, we'll lean towards the upper end and treat this as a 10 damage attack. 
+
+{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/invader_stats_005.jpg" caption="The third Lair Action." %}
+
+We can now go back and fill in the third Lair Action. Dimensional Maw overrides the limitation of Chest Maw, giving the Invader another powerful “aoe” attack. While still technically situational, the Invader is almost always going to be able to make both attacks, so we consider this a 20 damage action. This number aligns with the damage profile of Synaptic Tendrils, and this is no mere coincidence.
+
+## Flow, Tactics and Combat Math
+When planning complex, action oriented monsters, the goal is to offer the GM tactics that naturally unfold as the monster deploys its abilities—a Lair Action that powers up an attack that, in turn, enables a bonus action.   However, particularly if we're designing this monster for a module or adventure, providing a breakdown of its common tactics can serve as a handy guide for the GM running the encounter.
+
+In the case of the Void Invader, it may look something like this:
+- **1st Round**: Veil Breaker + 1 Razor Grip + Synaptic Tendrils + Chest Maw =  **43** average damage
+- **2nd Round**: Dimensional Maw + 2 Razor Grip + Chest Maw =  **52** average damage
+- **3rd Round**: Spatial Anomaly + 2 Razor Grip + Chest Maw = b average damage
+
+We are going over budget by about 25% on a round, which is within acceptable margins for a Boss monster with Lair Actions. Keep in mind, this isn't set in stone - Synaptic Tendrils might recharge more frequently than the anticipated 33%, or the GM may have a high damage turn: 
+
+- **High Damage Turn**: Dimensional Maw + 1 Razor Grip + Synaptic Tendrils + Chest Maw = 63 average damage
+
+But as long as the damage profile is properly balanced and its actions have some form of “cooldown” - in our case, the recharge roll on Synaptic Tendrils and the constraint we have set on using the same Lair Actions twice in a row - the GM can follow up with a lower than average turn:
+
+- **Low Damage Turn**: Veil Breaker + 2 Razor Grip + Chest Maw = 32 average damage
+
+When we average out all these potential turns, the expected damage per round for our Boss monster is 45.8, well within what can be expected by a CR7 Boss monster - especially considering that the damage is split between 3 to 5 sources - and, as such, can be spread over different targets. 
+
+There is an additional floating 7 damage to be budgeted when players try to break free from a Reality Riptide. But, taking this damage likely means they're safe from the Invader's tougher moves—a bit of a trade-off. In the end, both options likely even out damage-wise. Considering the added penalties of being restrained and how multiple control effects can stack, it's a balanced choice.
+
+When designing a monster we can’t account for all the edge cases. Some groups prefer their GMs to push the boundaries of combat, targeting squishy characters while ignoring the heavily armored ones unless they are forced not to. On the other hand, other groups enjoy a more relaxed experience, where monsters go after player characters that enjoy trading blows for role-playing purposes. Personally, I like to mix it up, tailoring the experience based on the flavor of the monsters; for instance, a group of bounty hunters might employ shrewd tactics, while mindless undead may adopt a straightforward "first come, first served" approach.
+
+The golden rule is that, over a three-round period, the monster should maintain a somewhat consistent damage profile while showcasing its full arsenal. If we only account for the “suggested” first three rounds, the average is 44.6 and the Invader gets a chance to employ all of its abilities.
+
+But why specifically care about three rounds?
+
+## The “Three Rounds” Rule and Legendary Resistance
+The Void Invader, being a Boss monster, needs to make a significant impact over three rounds, as most combat encounters are balanced around this timeframe. 
+
+In 5e, combat follows a "rocket tag" resource expenditure and damage profile. Both sides spend their resources early in a challenging encounter, and the bounded math ensures that most effects hit their mark. Players spend action surges, smites, and high-level spell slots, while monsters use abilities with limited uses or on a recharge. After three rounds of this intense firepower, the combat is typically over or has an expected outcome.
+
+To ensure a Boss monster remains effective for three rounds, a common solution is to grant it Legendary Resistance. This, coupled with immunities, prevents a single save-or-suck spell from prematurely ending the combat, resulting in a less dynamic fight. However, when a monster uses Legendary Resistance, it creates a "low point" in the combat enjoyment for players, as there is no discernible difference from the monster simply making its save, and resources are spent to no avail.
+
+While a monster will theoretically run out of Legendary Resistance, this usually occurs after the expected three rounds. 
+
+{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/invader_stats_007.jpg" caption="Reality Shift replaces Legendary Resistance." %}
+
+That's why we've given the Void Invader a trait like Reality Shift. This allows the monster to maintain its ability to interact with players in a fun way, while players also gain a tangible benefit when it fails a save against a nasty effect. 
+
+If we go over the Combat Math we were examining before, we can see that without access to its Chest Maw, the Invader’s damage per round is cut down by an average of 10, bringing its expected average damage on a round when it has benefited from Reality Shift to 34 damage.
+
+# Part 4: Non-boss action oriented monsters
+Now that we have our Boss monster, it is time to build some underlings for the encounter. While not as powerful or complex to run as the Void Invader, they are still going to benefit from an action oriented design. This approach ensures they synergize with the boss, allowing tactical elements to emerge organically when they act, in a way that both challenges the players while offering them opportunities for strategic counters.
+
+Once again, we are building this monster starting from two essential elements: concept art and a broad vision of its identity and functionality.
+
+We know the Void Spawns are going to be as otherworldly as the Invader, so we want her alien nature to be apparent in the stat block. From the concept art, they seem to be somewhat agile, with a long tongue and with a set of massive scythe-like talons on their back. We want them to act as a force multiplier for the Boss, making it easier for the Invader to keep people inside the areas affected by Reality Riptide.
+
+Like we did with the Invader, we'll mainly stick to average values suitable for the Spawns' CR - showcasing how, through action-oriented design, we can build a distinctive monster even when working with somewhat standard numbers.
+

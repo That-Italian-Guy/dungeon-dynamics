@@ -15,15 +15,6 @@ tags:
   - tutorial
 ---
 
-{% include video id="VIDEO_ID_GOES_HERE" provider="youtube" %}
-
-{% capture notice-text %}
-- Credits and stuff HERE
-{% endcapture %}
-<div class="notice--info">
-  {{ notice-text | markdownify }}
-</div>
-
 # Introduction 
 In the vast tapestry of tabletop role-playing, the monsters that inhabit your dungeons and darkened lairs are more than mere stat blocks—they are the architects of excitement, the conduits of challenge, and the beating hearts of every memorable encounter. 
 
@@ -93,7 +84,7 @@ Balancing encounters is a whole other beast and deserves its own chat in another
 
 {% include figure image_path="/assets/images/video-blogs/mm_vlog_001/forge_of_foes.jpg" caption="Mike Shea, Theos Abadia and Scott Fitzgerald Gray's Monster design guide" %}
 
- But for today, the big takeaway is this: pick a CR before you start your monster design journey.
+ But for today, the big takeaway is this: **pick a CR before you start your monster design journey**.
 
 ### Monster Building exercise - CR
 Now, let's roll up our sleeves and craft an example to illustrate this concept. Our party? A seasoned team of five level-five adventurers. To face them, we’re going to build a boss monster with a trio of sidekicks.Since this is a boss fight, we want it to be quite challenging - so the Boss is going to be a CR 7 monster and its underlings are going to be CR 2. 
@@ -168,6 +159,8 @@ We are going to further refine this next, when we start writing down the full st
 
 # Part 3: Let’s Build a Boss monster
 What do we know about the Void Invader? It is otherworldly, it punches holes in reality, it has creepy tendrils and a big maw at the center of its chest. How does his otherworldliness manifest? 
+
+{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/invader_001.jpg" caption="The Void Invader." %}
 
 ## Void Invader 
 *Large aberration, chaotic evil*
@@ -336,6 +329,8 @@ Now that we have our Boss monster, it is time to build some underlings for the e
 
 Once again, we are building this monster starting from two essential elements: concept art and a broad vision of its identity and functionality.
 
+{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/invader_001.jpg" caption="Void Spawns." %}
+
 We know the Void Spawns are going to be as otherworldly as the Invader, so we want her alien nature to be apparent in the stat block. From the concept art, they seem to be somewhat agile, with a long tongue and with a set of massive scythe-like talons on their back. We want them to act as a force multiplier for the Boss, making it easier for the Invader to keep people inside the areas affected by Reality Riptide.
 
 Like we did with the Invader, we'll mainly stick to average values suitable for the Spawns' CR - showcasing how, through action-oriented design, we can build a distinctive monster even when working with somewhat standard numbers.
@@ -476,7 +471,7 @@ Their journey leads them to the abandoned tower ruin, where they confront not on
 - [Echoes of the Void v1.2 PDF](assets/files/echoes-of-the-void-PDF-v1.2.rar)
 - [Foundry module v1.0](assets/files/echoes-of-the-void-foundry-v1.0.rar)
 - [Battlemaps](assets/files/echoes-of-the-void-battlemaps.rar)
-  - You don't need to download the Battlemaps if you are using the Foundry module!
+- You don't need to download the Battlemaps if you are using the Foundry module!
 {% endcapture %}
 <div class="notice--info">
   {{ notice-free | markdownify }}

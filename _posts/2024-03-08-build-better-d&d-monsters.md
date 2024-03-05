@@ -1,4 +1,4 @@
----
+![image](https://github.com/That-Italian-Guy/dungeon-dynamics/assets/106380880/541abe7e-0d50-4b9d-a029-1d98e5719020)---
 title: "Build Better D&D Monsters"
 date: 2024-01-16
 excerpt: How to design Action-Oriented Monsters for dynamic, tactical encounters.
@@ -50,11 +50,15 @@ The Dungeon Master sets the scene—a party weaving through desolated ruins, tor
 
 A classic scenario - a low level party against a group of Skeletons. 
 
-Meet the Conventional 5e Skeleton. It can do two things: attack with a shortsword; or attack with a shortbow. Both are +4 to hit and they both deal 1d6+2 points of piercing damage. The Dungeon Master gives us the lowdown, describing its appearance and highlighting its vulnerabilities and immunities. Yet, beyond its looks and resistances, its identity feels somewhat generic. We could be facing a brittle boned goblin that has been dosing with cobra poison their whole life and the stat block would be mostly identical.
+{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/skelly_001.png" caption="Meet the Conventional 5e Skeleton." %}
 
-Now, let's shift to an Action-Oriented monster—the Four-Armed Skeleton from Level Up Advanced 5e Monstrous Menagerie. At first glance, it seems similar, even sharing identical attack actions. But a deeper dive reveals its uniqueness.
+It can do two things: attack with a shortsword; or attack with a shortbow. Both are +4 to hit and they both deal 1d6+2 points of piercing damage. The Dungeon Master gives us the lowdown, describing its appearance and highlighting its vulnerabilities and immunities. Yet, beyond its looks and resistances, its identity feels somewhat generic. We could be facing a brittle boned goblin that has been dosing with cobra poison their whole life and the stat block would be mostly identical.
 
-This stat block tells us we're dealing with a monster that refuses to stay down—understandable since it lost all its meat and is still kicking! With Elite Recovery, it automatically shakes off a Condition each turn when below half its maximum hit points. It boasts more hit points than a regular ¼ CR monster (double the amount of the conventional skeleton, in fact), maintaining vulnerability to bludgeoning damage but “simulating” a resistance to other damage types due to increased HP. The crucial difference? It's a resistance that doesn't frustrate players; no one wants to roll and be told they inflict a measly 2 points of damage. The Conventional skeleton's low hit points ensure it will encounter a swift demise no matter the weapon, making its resistance irrelevant. But you'll definitely see a fighter switch to their mace when facing this one!
+Now, let's shift to an Action-Oriented monster.
+
+{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/skelly_003.png" caption="Four-Armed Skeleton from Level Up Advanced 5e Monstrous Menagerie" %}
+
+At first glance, it seems similar, even sharing identical attack actions. But a deeper dive reveals its uniqueness. This stat block tells us we're dealing with a monster that refuses to stay down—understandable since it lost all its meat and is still kicking! With Elite Recovery, it automatically shakes off a Condition each turn when below half its maximum hit points. It boasts more hit points than a regular ¼ CR monster (double the amount of the conventional skeleton, in fact), maintaining vulnerability to bludgeoning damage but “simulating” a resistance to other damage types due to increased HP. The crucial difference? It's a resistance that doesn't frustrate players; no one wants to roll and be told they inflict a measly 2 points of damage. The Conventional skeleton's low hit points ensure it will encounter a swift demise no matter the weapon, making its resistance irrelevant. But you'll definitely see a fighter switch to their mace when facing this one!
 
 Incidentally, the majority of Action-Oriented monsters were crafted during the later stages of the 5e development cycle, leading to this kind of “player-friendly” and more elegant approach to design.
 
@@ -75,17 +79,19 @@ Based on its Challenge Rating, a monster should present a certain level of offen
 Before you do anything else, you should start by picking a Challenge Rating for your monster. This decision essentially establishes the monster's power level relative to the players. All the subsequent elements we'll design revolve around this decision. 
 
 For now, we are going to stick to a generic rule of thumb:at Tier 1, especially before level 3, players are pretty squishy. But at level 5, things get spicy as they usually get a second attack or level 3 spells. After that, it's a steady power climb. The amount of PCs is a party is obviously an important part of the equation; it is customary to balance creatures around the average party size of either four or five player characters. In this series, we are assuming a party of 5 as our baseline.
-.
+
 By following this (extremely simplified) approach, and assuming a single monster vs the party, we can say that:
-Level 1 characters will mostly face enemies up to CR 1.
-PCs above level 1 but below 5 should tackle enemies not higher than their level +2.
-Tier 2 characters can handle enemies up to their level +5.
-Tier 3 and 4 PCs can take on monsters up to their level +7 and even more.
+- Level 1 characters will mostly face enemies up to CR 1.
+- PCs above level 1 but below 5 should tackle enemies not higher than their level +2.
+- Tier 2 characters can handle enemies up to their level +5.
+- Tier 3 and 4 PCs can take on monsters up to their level +7 and even more.
 If you're designing a monster for a specific campaign, knowing when the party will face this creature is key. Of course, the numbers change if you've got more monsters in an encounter (we'll get into that later).
 
 And if you're just crafting an enemy without a specific party or campaign in mind, you can still use this simple guide to guess the average power level for a creature of a specific CR. 
 
 Balancing encounters is a whole other beast and deserves its own chat in another video. And if you want a more in depth discussion on this topic, you can’t really go wrong with The Lazy DM’s Forge of Foes (this is, in fact, an excellent resource for building action oriented monsters in general!).
+
+{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/forge_of_foes.jpg" caption="Mike Shea, Theos Abadia and Scott Fitzgerald Gray's Monster design guide" %}
 
  But for today, the big takeaway is this: pick a CR before you start your monster design journey.
 

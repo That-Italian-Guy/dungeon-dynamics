@@ -280,7 +280,7 @@ There is a jagged elephant in the room: looking at the concept art, we can see t
 
 When calculating the budget for a situational attack, it is customary to only count half to three quarters of its expected damage - since it will only be available on certain turns. In our scenario, as we anticipate it to be almost always available, we'll lean towards the upper end and treat this as a 10 damage attack. 
 
-{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/invader_stats_005.jpg" caption="The third Lair Action." %}
+{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/invader_stats_006.jpg" caption="The third Lair Action." %}
 
 We can now go back and fill in the third Lair Action. Dimensional Maw overrides the limitation of Chest Maw, giving the Invader another powerful “aoe” attack. While still technically situational, the Invader is almost always going to be able to make both attacks, so we consider this a 20 damage action. This number aligns with the damage profile of Synaptic Tendrils, and this is no mere coincidence.
 
@@ -407,7 +407,7 @@ Making the Void Spawn easier to run than the Invader is a priority, but we still
 We gave the Spawn two attacks to spread out the damage and increase the chances of triggering the extra effects of Prehensile Tongue. The repeated saves might slow things down a bit, but I'm less worried here, for a couple of reasons: it's an interactive roll that gives players something to do, not extra work for the GM; and it's like a one-on-one challenge against a monster rather than an abstracted roll.
 With an expected average damage of just 10 per round (even with the potential for two minor conditions), we're keeping a Bonus Action in reserve to add some action-oriented elements to the Spawn.
 
-{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/spawn_stats_007jpg" caption=Void Spawn Bonus Action." %}
+{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/spawn_stats_007.jpg" caption=Void Spawn Bonus Action." %}
 
 This attack brings the damage profile of the Spawn more in line with its expected budget of 15. Halving someone’s speed is usually an almost negligible effect, but in this specific combat - where mobility is king - it poses a much more credible threat. As a reminder, in 5e the same effect does not stack in magnitude if it is applied multiple times by the same source - so, no need to track how many times Hobbling Talons slowed the same target—keeps things simple. At the same time, standing from prone consumes an amount of movement equal to half your speed, so if someone is knocked prone and then Hobbled, their mobility shrinks to a crawl.
 
@@ -459,7 +459,16 @@ After a few tweaks, the final adjustments to our monsters were made. It was time
 
 In "Echoes of the Void," the adventurers find themselves drawn into a village plagued by mysterious disappearances. As they investigate, they uncover a sinister peril involving interdimensional creatures from the Void. The source of these eldritch horrors is an abandoned tower ruin hidden within the nearby forest, where a forgotten relic weakens the veil between dimensions.
 
+{% include figure image_path="/assets/images/video-blogs/mm_vlog_001/free_stuff.jpg" caption=Void Spawn Bonus Action." %}
+
 The adventurers must investigate the village and the surrounding countryside, piecing together clues to the nature of the threat and its source. Along the way, they encounter frightened villagers, haunted landscapes, and the lingering echoes of the Void's influence.
 
 Their journey leads them to the abandoned tower ruin, where they confront not only the Void Invader and its Spawns but also the perilous artifact responsible for weakening the barriers between worlds. To save the village and restore the fabric of reality, the adventurers must defeat the creatures and neutralize the artifact.
 
+{% capture notice-free %}
+## Download Links
+- 
+{% endcapture %}
+<div class="notice--info">
+  {{ notice-free | markdownify }}
+</div>

@@ -1,18 +1,18 @@
 ---
 title: "Build Better D&D Monsters"
-date: 2024-01-16
+date: 2024-03-05
 excerpt: How to design Action-Oriented Monsters for dynamic, tactical encounters.
 toc: true
 header:
-  teaser: /assets/images/video-blogs/banner_da_prefab1_001.webp
+  teaser: /assets/images/video-blogs/MM_vlog_001_blog_banner.jpg
 categories: 
-  - vtt
+  - game design
 tags:
   - video
+  - adventure
+  - tutorial
   - vtt
   - foundry
-  - dungeon alchemist
-  - tutorial
 ---
 
 # Introduction 

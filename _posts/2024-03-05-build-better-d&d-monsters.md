@@ -15,6 +15,17 @@ tags:
   - foundry
 ---
 
+{% include video id="CwQn8xf2hfk" provider="youtube" %}
+
+{% capture notice-text %}
+- Monsters and Background Art: [Lion Banner Games](https://www.lionbanner.com/) 
+- Battlemaps: Borough Bound, Dungeons of Drakkenheim 
+- Music and SFX: Tabletop Audio, Flame Sound, Chosic, Pixabay, Videezy
+{% endcapture %}
+<div class="notice--info">
+  {{ notice-text | markdownify }}
+</div>
+
 # Introduction 
 In the vast tapestry of tabletop role-playing, the monsters that inhabit your dungeons and darkened lairs are more than mere stat blocks—they are the architects of excitement, the conduits of challenge, and the beating hearts of every memorable encounter. 
 
@@ -488,7 +499,7 @@ Their journey leads them to the abandoned tower ruin, where they confront not on
 ## Download Links
 - Grab the [Echoes of the Void v1.2 PDF](https://github.com/That-Italian-Guy/dungeon-dynamics/raw/main/assets/files/echoes-of-the-void-PDF-v1.2.rar)
 - This is the [Foundry module v1.0](https://github.com/That-Italian-Guy/dungeon-dynamics/raw/main/assets/files/echoes-of-the-void-foundry-v1.0.rar)
-- The [Battlemaps](https://github.com/That-Italian-Guy/dungeon-dynamics/raw/main/assets/files/echoes-of-the-void-battlemaps.rar) is not needed if you are using the Foundry module! However, this file comes with additional variations (day, dusk, dawn) that are not included in the module itself.
+- The [Battlemaps](https://github.com/That-Italian-Guy/dungeon-dynamics/raw/main/assets/files/echoes-of-the-void-battlemaps.rar) archive is not needed if you are using the Foundry module! However, this file comes with additional variations (day, dusk, dawn) that are not included in the module itself.
 {% endcapture %}
 <div class="notice--info">
   {{ notice-free | markdownify }}

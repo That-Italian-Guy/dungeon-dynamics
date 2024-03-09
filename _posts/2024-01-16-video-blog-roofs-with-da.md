@@ -1,5 +1,6 @@
 ---
 title: "Create Roofs in Dungeon Alchemist (for Foundry VTT)"
+redirect_to: https://dungeondynamics.wordpress.com/2024/03/09/create-roofs-in-dungeon-alchemist-for-foundry-vtt/
 date: 2024-01-16
 excerpt: How to create and edit roofs with Dungeon Alchemist and a Photo editing software.
 toc: true

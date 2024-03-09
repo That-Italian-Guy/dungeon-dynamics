@@ -1,5 +1,6 @@
 ---
 title: "Building prefabs with Dungeon Alchemist & Foundry VTT"
+redirect_to: https://dungeondynamics.wordpress.com/2024/03/09/building-prefabs-with-dungeon-alchemist-foundry-vtt/
 date: 2024-01-16
 excerpt: Dungeon Alchemist's procedural generation for prefab buildings in Foundry VTT, ready for any battlemap.
 toc: true

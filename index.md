@@ -6,6 +6,7 @@ header:
     - label: "Explore"
       url: "https://that-italian-guy.github.io/dungeon-dynamics/tags/"
 title: Dungeon Dynamics
+redirect_to: https://dungeondynamics.wordpress.com/
 date: 2024-01-13
 excerpt: A TTRPG design blog.
 author_profile: true

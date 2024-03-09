@@ -1,5 +1,6 @@
 ---
 title: "Drakkenheim Extras: What Lurks in the Waters"
+redirect_to: https://dungeondynamics.wordpress.com/2024/03/09/what-lurks-in-the-waters/
 date: 2024-01-14
 excerpt: A bonus adventure for Dungeons of Drakkenheim
 toc: true

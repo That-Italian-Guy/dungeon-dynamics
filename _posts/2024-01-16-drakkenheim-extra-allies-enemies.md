@@ -1,5 +1,6 @@
 ---
 title: "Drakkenheim Extras: Allies and Enemies"
+redirect_to: https://dungeondynamics.wordpress.com/2024/03/09/drakkenheim-extras-allies-and-enemies/
 date: 2024-01-16
 excerpt: Patrons and Rival Adventuring Parties for Dungeons of Drakkenheim.
 toc: true

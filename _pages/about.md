@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+redirect_to: https://dungeondynamics.wordpress.com/
 layout: splash
 header:
   overlay_color: "#333"

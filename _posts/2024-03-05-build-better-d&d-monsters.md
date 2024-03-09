@@ -498,7 +498,7 @@ Their journey leads them to the abandoned tower ruin, where they confront not on
 {% capture notice-free %}
 ## Download Links
 - Grab the [Echoes of the Void v1.2 PDF](https://github.com/That-Italian-Guy/dungeon-dynamics/raw/main/assets/files/echoes-of-the-void-PDF-v1.2.rar)
-- This is the [Foundry module v1.0](https://github.com/That-Italian-Guy/dungeon-dynamics/raw/main/assets/files/echoes-of-the-void-foundry-v1.0.rar)
+- This is the [Foundry module v1.0](https://github.com/That-Italian-Guy/dungeon-dynamics/raw/main/assets/files/echoes-of-the-void-foundry-v1.0.rar) Foundry Module also available from [Foundry](https://foundryvtt.com/packages/echoes-of-the-void)
 - The [Battlemaps](https://github.com/That-Italian-Guy/dungeon-dynamics/raw/main/assets/files/echoes-of-the-void-battlemaps.rar) archive is not needed if you are using the Foundry module! However, this file comes with additional variations (day, dusk, dawn) that are not included in the module itself.
 {% endcapture %}
 <div class="notice--info">
@@ -506,7 +506,9 @@ Their journey leads them to the abandoned tower ruin, where they confront not on
 </div>
 
 ### Foundry VTT Module installation
-To install the module:
+No need for manual installation if you get this from [Foundry](https://foundryvtt.com/packages/echoes-of-the-void)!
+
+To install the module manually:
 - Unzip the .rar file 
 - Place the folder _echoes-of-the-void_ into the _Data/modules/_ folder in your hidden user data folder, usually at _C:\Users\YOUR_WINDOWS_USER\AppData\Local\FoundryVTT_.
 - If Foundry is running, it must be restarted for the software to recognize and load the new module.

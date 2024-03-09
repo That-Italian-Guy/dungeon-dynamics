@@ -1,5 +1,6 @@
 ---
 title: "Build Better D&D Monsters"
+redirect_to: https://dungeondynamics.wordpress.com/2024/03/09/build-better-dd-monsters/
 date: 2024-03-05
 excerpt: How to design Action-Oriented Monsters for dynamic, tactical encounters.
 toc: true

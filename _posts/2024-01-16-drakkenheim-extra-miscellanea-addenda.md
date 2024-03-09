@@ -1,5 +1,6 @@
 ---
 title: "Drakkenheim Extras: Miscellanea Addenda"
+redirect_to: https://dungeondynamics.wordpress.com/2024/03/09/drakkenheim-extras-miscellanea-addenda/
 date: 2024-01-16
 excerpt: A collection of new rules and random tables for Dungeons of Drakkenheim.
 toc: true

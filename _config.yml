@@ -64,6 +64,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-redirect-from
   - jekyll-remote-theme
 
 author:

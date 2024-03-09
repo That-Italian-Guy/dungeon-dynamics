@@ -1,6 +1,5 @@
 ---
 title: "Drakkenheim Extras: The Haze Moon"
-redirect_to: https://dungeondynamics.wordpress.com/2024/03/09/drakkenheim-extras-the-haze-moon/
 date: 2024-01-13
 excerpt: A bonus adventure for Dungeons of Drakkenheim
 toc: true

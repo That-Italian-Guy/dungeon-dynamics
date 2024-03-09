@@ -1,5 +1,6 @@
 ---
 title: "Drakkenheim Extras: New Monsters"
+redirect_to: https://dungeondynamics.wordpress.com/2024/03/09/drakkenheim-extras-new-monsters/
 date: 2024-01-16
 excerpt: A collection of new eldritch creatures for Dungeons of Drakkenheim.
 toc: true

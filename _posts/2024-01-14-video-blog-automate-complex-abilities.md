@@ -1,5 +1,6 @@
 ---
 title: "Better Foundry VTT Automation"
+redirect_to: https://dungeondynamics.wordpress.com/2024/03/09/better-foundry-automation/
 date: 2024-01-14
 excerpt: A showcase of my most used automation tips and tricks. Includes modules and macro usage.
 toc: false

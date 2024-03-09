@@ -1,5 +1,6 @@
 ---
 title: "Drakkenheim Extras: Groups and Hordes"
+redirect_to: https://dungeondynamics.wordpress.com/2024/03/09/drakkenheim-extras-groups-and-hordes/
 date: 2024-01-15
 excerpt: Efficient rules for handling numerous weak enemies in Dungeons of Drakkenheim.
 toc: true
